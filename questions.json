@@ -141,11 +141,7 @@
             "Inhibition of histamine release via H1 receptor blockade"
         ],
         "correctAnswer": 2,
-        "explanation": "Epinephrine is the drug of choice for anaphylaxis because it has both alpha and beta adrenergic effects:  
-        - Alpha-1: Vasoconstriction, which reduces airway swelling and maintains blood pressure.  
-        - Beta-1: Increases heart rate and cardiac output to prevent cardiovascular collapse.  
-        - Beta-2: Bronchodilation, which relieves respiratory distress.  
-        These combined effects make epinephrine the most effective treatment for anaphylaxis."
+        "explanation": "Epinephrine is the drug of choice for anaphylaxis because it has both alpha and beta adrenergic effects:  - Alpha-1: Vasoconstriction, which reduces airway swelling and maintains blood pressure.  - Beta-1: Increases heart rate and cardiac output to prevent cardiovascular collapse.  - Beta-2: Bronchodilation, which relieves respiratory distress.  These combined effects make epinephrine the most effective treatment for anaphylaxis."
     },
     {
         "question": "A 65-year-old man is diagnosed with heart failure and prescribed an ACE inhibitor. Which of the following best explains the mechanism by which ACE inhibitors lower blood pressure?",
