@@ -1,53 +1,6 @@
-[
-{
-    "question": "A patient presents to the emergency department after a traumatic injury. Vitals reveal an elevated heart rate with a normal blood pressure. Which of the following is the most accurate interpretation of their hemodynamic status?",
-    "choices": [
-        "Shock can be ruled out because blood pressure is normal",
-        "Low blood pressure is required to diagnose shock",
-        "Shock is possible despite a normal blood pressure",
-        "This patient is experiencing neurogenic shock",
-        "The elevated heart rate is unrelated to their hemodynamic status"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Shock is a state of inadequate tissue perfusion, which can occur even with a normal blood pressure in compensated stages. Early hemorrhagic shock, for example, may present with tachycardia while blood pressure is maintained through compensatory mechanisms. Conversely, low blood pressure alone does not confirm shock, as it may result from other causes like medications or neurogenic shock, which can present with bradycardia."
-},
-{
-    "question": "A researcher is studying autonomic control of blood vessel diameter. Which of the following best explains how vasodilation occurs in most systemic blood vessels?",
-    "choices": [
-        "Direct activation of parasympathetic nerves on vascular smooth muscle",
-        "Inhibition of sympathetic output leading to reduced vasoconstriction",
-        "Release of acetylcholine from parasympathetic nerves onto blood vessels",
-        "Direct parasympathetic stimulation causing vascular smooth muscle relaxation",
-        "Increased parasympathetic tone overriding sympathetic vasoconstriction"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The parasympathetic nervous system does not directly control most systemic blood vessel dilation. Instead, vasodilation primarily occurs through inhibition of sympathetic vasoconstrictor tone, leading to passive dilation. While parasympathetic fibers release acetylcholine, they mainly affect specific vascular beds (e.g., in erectile tissue and salivary glands) rather than systemic blood vessels."
-},
-{
-    "question": "A patient accidentally injects themselves with a syringe containing norepinephrine instead of epinephrine. Compared to an epinephrine injection, what is the most likely vascular consequence at the injection site?",
-    "choices": [
-        "Increased vasodilation and improved blood flow",
-        "No significant difference in vascular effects",
-        "Excessive vasoconstriction leading to tissue necrosis",
-        "Transient hypotension due to beta-2 receptor activation",
-        "Inhibition of sympathetic activity causing vasodilation"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Norepinephrine primarily stimulates alpha-1 receptors, causing intense vasoconstriction with little beta-2-mediated vasodilation. In contrast, epinephrine has both alpha-1 and beta-2 effects, allowing for some vasodilation in certain tissues. Injecting norepinephrine into tissue could lead to excessive vasoconstriction, reduced perfusion, and potential ischemic necrosis due to lack of blood supply."
-},
-{
-    "question": "A patient experiences a sudden drop in blood pressure upon standing. Which of the following best describes the baroreflex response that helps restore blood pressure?",
-    "choices": [
-        "Increased parasympathetic activity to constrict blood vessels",
-        "Decreased sympathetic output to increase heart rate",
-        "Inhibition of parasympathetic tone and activation of sympathetic output",
-        "Activation of parasympathetic output to increase cardiac contractility",
-        "Direct parasympathetic stimulation of vascular smooth muscle to restore pressure"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The baroreflex detects changes in blood pressure through baroreceptors in the carotid sinus and aortic arch. A drop in blood pressure decreases baroreceptor firing, leading to reduced parasympathetic tone and increased sympathetic activity. This results in vasoconstriction, increased heart rate, and enhanced cardiac contractility, helping to restore blood pressure."
-},
-   {
+Lecture 77Q’s + 5 Rx= 82Qs in total
+
+    {
         "question": "A scientist is studying the enzymatic pathway of norepinephrine (NE) biosynthesis. Inhibiting which of the following enzymes would directly lead to a decreased synthesis of norepinephrine within adrenergic neurons?",
         "choices": [
             "Phenylethanolamine N-methyltransferase (PNMT)",
@@ -141,7 +94,11 @@
             "Inhibition of histamine release via H1 receptor blockade"
         ],
         "correctAnswer": 2,
-        "explanation": "Epinephrine is the drug of choice for anaphylaxis because it has both alpha and beta adrenergic effects:  - Alpha-1: Vasoconstriction, which reduces airway swelling and maintains blood pressure.  - Beta-1: Increases heart rate and cardiac output to prevent cardiovascular collapse.  - Beta-2: Bronchodilation, which relieves respiratory distress.  These combined effects make epinephrine the most effective treatment for anaphylaxis."
+        "explanation": "Epinephrine is the drug of choice for anaphylaxis because it has both alpha and beta adrenergic effects:  
+        - Alpha-1: Vasoconstriction, which reduces airway swelling and maintains blood pressure.  
+        - Beta-1: Increases heart rate and cardiac output to prevent cardiovascular collapse.  
+        - Beta-2: Bronchodilation, which relieves respiratory distress.  
+        These combined effects make epinephrine the most effective treatment for anaphylaxis."
     },
     {
         "question": "A 65-year-old man is diagnosed with heart failure and prescribed an ACE inhibitor. Which of the following best explains the mechanism by which ACE inhibitors lower blood pressure?",
@@ -287,19 +244,7 @@
         "correctAnswer": 0,
         "explanation": "In bilateral renal artery stenosis, both kidneys sense reduced perfusion and initially increase renin secretion. However, as blood pressure rises to overcome the stenosis, renin levels return closer to normal, unlike in unilateral stenosis where renin remains persistently elevated."
     },
-    {
-        "question": "A patient presents with resistant hypertension and metabolic alkalosis. His laboratory tests show elevated aldosterone and suppressed renin levels. What is the most likely underlying diagnosis?",
-        "choices": [
-            "Primary aldosteronism",
-            "Renovascular hypertension",
-            "Pheochromocytoma",
-            "Cushing syndrome",
-            "Liddle syndrome"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Primary aldosteronism (e.g., Conn syndrome) results from excessive aldosterone secretion, leading to hypertension, hypokalemia, and metabolic alkalosis. Suppressed renin distinguishes it from renovascular hypertension, where renin levels remain elevated."
-    },
-    {
+       {
         "question": "A newborn is diagnosed with aortic coarctation. His blood pressure is found to be high in the upper extremities but normal in the lower extremities. How does this condition affect renin secretion?",
         "choices": [
             "Renin secretion is increased due to low renal perfusion pressure",
@@ -477,7 +422,7 @@
             "No treatment is needed"
         ],
         "correctAnswer": 2,
-        "explanation": "Patients with diabetes or chronic kidney disease should have a target BP of <130/80 mmHg to reduce the risk of cardiovascular and renal complications. The goal for the general population over 60 without comorbidities is <150/90 mmHg."
+        "explanation": "Patients with diabetes or chronic kidney disease should have a target BP of <130/80 mmHg to reduce the risk of cardiovascular and renal complications. The goal for the general population over 60 without comorbidities is <140/90 mmHg."
     },
     {
         "question": "A 35-year-old man presents with episodic headaches, sweating, and palpitations. His blood pressure is 195/110 mmHg. Urinary metanephrines and normetanephrines are significantly elevated. Which of the following medications should be given first before surgical intervention?",
@@ -658,18 +603,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Methyldopa is a first-line antihypertensive in pregnancy due to its safety profile. ACE inhibitors (lisinopril) and ARBs (losartan) are contraindicated due to teratogenic effects. Beta-blockers (propranolol) and CCBs (amlodipine) are used in specific cases but are not first-line."
-},
-{
-    "question": "A 65-year-old man with hypertension and reduced ejection fraction heart failure (HFrEF) is prescribed a beta-blocker. Which of the following beta-blockers is most appropriate for this patient?",
-    "choices": [
-        "Atenolol",
-        "Propranolol",
-        "Metoprolol succinate",
-        "Esmolol",
-        "Pindolol"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Beta-blockers reduce mortality in heart failure, but only certain beta-blockers (metoprolol succinate, carvedilol, bisoprolol) are indicated. Atenolol and propranolol are not recommended for heart failure, and pindolol has intrinsic sympathomimetic activity (ISA), making it unsuitable."
 },
 {
     "question": "A 72-year-old woman with hypertension is started on hydralazine. Two weeks later, she develops palpitations and flushing. Which of the following mechanisms best explains her symptoms?",
@@ -924,18 +857,6 @@
     "explanation": "Metoprolol, a cardioselective β1 blocker, is preferred in patients with COPD or asthma because it has minimal β2 blockade, reducing the risk of bronchospasm. Non-selective beta-blockers (e.g., propranolol, timolol, carvedilol, labetalol) can worsen bronchoconstriction."
 },
 {
-    "question": "A 40-year-old woman with thyroid storm presents with tachycardia, fever, and agitation. Which of the following beta-blockers is the most appropriate treatment due to its ability to inhibit peripheral T4 to T3 conversion?",
-    "choices": [
-        "Atenolol",
-        "Esmolol",
-        "Metoprolol",
-        "Propranolol",
-        "Labetalol"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Propranolol is a non-selective beta-blocker that not only controls tachycardia in thyroid storm but also inhibits 5'-deiodinase, reducing T4 to T3 conversion. Other beta-blockers lack this additional benefit."
-},
-{
     "question": "A 68-year-old man presents to the emergency department with a hypertensive emergency (BP 220/120 mmHg) and aortic dissection. Which of the following intravenous beta-blockers would provide the most rapid control of his blood pressure and heart rate?",
     "choices": [
         "Metoprolol",
@@ -958,18 +879,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "Clonidine, a central α2-adrenergic agonist, suppresses sympathetic outflow from the CNS. Abrupt withdrawal causes rebound sympathetic activation, leading to severe hypertension, tachycardia, and agitation."
-},
-{
-    "question": "A 60-year-old man with hypertension is started on reserpine. One month later, he presents with fatigue, depressed mood, and anhedonia. Which of the following best explains his symptoms?",
-    "choices": [
-        "Inhibition of catecholamine synthesis",
-        "Inhibition of dopamine and norepinephrine storage",
-        "Blockade of alpha-1 adrenergic receptors",
-        "Increased parasympathetic activity",
-        "Upregulation of beta-adrenergic receptors"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Reserpine inhibits vesicular monoamine transporter (VMAT), preventing dopamine and norepinephrine storage, leading to decreased central monoamine levels, which can cause depression and sedation."
 },
 {
     "question": "A 55-year-old man with hypertension and heart failure is started on labetalol. Which of the following best describes how this drug lowers blood pressure?",
@@ -1029,5 +938,94 @@
     ],
     "correctAnswer": 3,
     "explanation": "The correct answer is tobacco cessation (D). Although quitting smoking has been shown to improve cardiovascular mortality, it does not significantly reduce blood pressure. Alcohol cessation (A) can reduce systolic blood pressure by 7.2 mm Hg in heavy drinkers. The DASH diet (B) lowers systolic BP by 5.5 mm Hg, and exercise (C) can reduce systolic BP by 3.8 mm Hg. Weight loss (E) is the most effective intervention, lowering systolic BP by up to 8.5 mm Hg. Therefore, tobacco cessation is the least effective intervention for blood pressure reduction."
-}
-]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
