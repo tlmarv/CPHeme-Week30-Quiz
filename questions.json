@@ -594,10 +594,10 @@
         "Methyldopa",
         "Losartan",
         "Propranolol",
-        "Amlodipine"
+        "Labetalol"
     ],
-    "correctAnswer": 1,
-    "explanation": "Methyldopa is a first-line antihypertensive in pregnancy due to its safety profile. ACE inhibitors (lisinopril) and ARBs (losartan) are contraindicated due to teratogenic effects. Beta-blockers (propranolol) and CCBs (amlodipine) are used in specific cases but are not first-line."
+    "correctAnswer": 4,
+    "explanation": "Methyldopa was the first-line antihypertensive in pregnancy due to its safety profile but more recently (according to lecture) labetalol has been proven to be better tolerated. ACE inhibitors (lisinopril) and ARBs (losartan) are contraindicated due to teratogenic effects. Beta-blockers (propranolol) and CCBs (amlodipine) are used in specific cases but are not first-line."
 },
 {
     "question": "A 72-year-old woman with hypertension is started on hydralazine. Two weeks later, she develops palpitations and flushing. Which of the following mechanisms best explains her symptoms?",
