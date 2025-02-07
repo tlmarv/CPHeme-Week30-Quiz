@@ -171,7 +171,7 @@
         "question": "A researcher is investigating the effects of angiotensin II receptor blockers (ARBs) on the renin-angiotensin system. Which of the following changes would most likely be seen in patients taking ARBs?",
         "choices": [
             "Increased plasma renin activity and angiotensin II levels",
-            "Decreased aldosterone levels and increased angiotensin II levels",
+            "increased aldosterone levels and increased angiotensin II levels",
             "Suppressed renin release and decreased angiotensin II levels",
             "Increased sodium retention and plasma volume expansion",
             "Increased aldosterone secretion and vasoconstriction"
@@ -183,7 +183,7 @@
         "question": "A 50-year-old man presents with hypertensive crisis and is given labetalol. How does this medication lower blood pressure?",
         "choices": [
             "Selective beta-2 activation to cause vasodilation",
-            "Selective alpha-1 receptor blockade reducing vascular resistance",
+            "Selective alpha-2 receptor blockade reducing vascular resistance",
             "Non-selective beta and alpha blockade decreasing cardiac output and vasoconstriction",
             "Inhibition of angiotensin II synthesis to reduce vascular tone",
             "Direct inhibition of sodium reabsorption in the kidneys"
@@ -590,14 +590,14 @@
 {
     "question": "A 30-year-old woman at 28 weeks' gestation is diagnosed with new-onset hypertension (BP 156/98 mmHg). Which of the following is the most appropriate antihypertensive therapy?",
     "choices": [
-        "Lisinopril",
+        "Labetalol",
         "Methyldopa",
         "Losartan",
         "Propranolol",
         "Amlodipine"
     ],
-    "correctAnswer": 1,
-    "explanation": "Methyldopa is a first-line antihypertensive in pregnancy due to its safety profile. ACE inhibitors (lisinopril) and ARBs (losartan) are contraindicated due to teratogenic effects. Beta-blockers (propranolol) and CCBs (amlodipine) are used in specific cases but are not first-line."
+    "correctAnswer": 0,
+    "explanation": "Methyldopa was the first-line antihypertensive in pregnancy due to its safety profile but labetalol has been proven safer and better tolerated. ACE inhibitors (lisinopril) and ARBs (losartan) are contraindicated due to teratogenic effects. Beta-blockers (propranolol) and CCBs (amlodipine) are used in specific cases but are not first-line."
 },
 {
     "question": "A 72-year-old woman with hypertension is started on hydralazine. Two weeks later, she develops palpitations and flushing. Which of the following mechanisms best explains her symptoms?",
@@ -935,93 +935,5 @@
     "explanation": "The correct answer is tobacco cessation (D). Although quitting smoking has been shown to improve cardiovascular mortality, it does not significantly reduce blood pressure. Alcohol cessation (A) can reduce systolic blood pressure by 7.2 mm Hg in heavy drinkers. The DASH diet (B) lowers systolic BP by 5.5 mm Hg, and exercise (C) can reduce systolic BP by 3.8 mm Hg. Weight loss (E) is the most effective intervention, lowering systolic BP by up to 8.5 mm Hg. Therefore, tobacco cessation is the least effective intervention for blood pressure reduction."
 }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
