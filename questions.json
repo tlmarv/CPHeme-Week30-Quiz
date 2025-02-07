@@ -1,5 +1,4 @@
-[
-{
+    {
         "question": "A scientist is studying the enzymatic pathway of norepinephrine (NE) biosynthesis. Inhibiting which of the following enzymes would directly lead to a decreased synthesis of norepinephrine within adrenergic neurons?",
         "choices": [
             "Phenylethanolamine N-methyltransferase (PNMT)",
@@ -339,13 +338,13 @@
         "question": "A 68-year-old man presents with chest pain and syncope one week after an MI. Echocardiography reveals a ruptured interventricular septum. What is the most likely underlying pathological finding?",
         "choices": [
             "Granulation tissue formation",
-            "Coagulative necrosis with neutrophilic infiltration",
+            "Coagulative necrosis with macrophagic infiltration",
             "Dense collagen deposition",
             "Hypertrophic myocardial fibers",
             "Calcified atheromatous plaque"
         ],
         "correctAnswer": 1,
-        "explanation": "Rupture of the interventricular septum occurs 3-7 days post-MI, when neutrophilic infiltration and coagulative necrosis weaken the myocardial wall. This leads to left-to-right shunting and cardiogenic shock."
+        "explanation": "They phagocytose the dead tissue, and this is what makes this time point so dangerous in terms of complications, you have maximally, dead cardiac tissue that is being cleared away, with nothing yet replacing it.  This creates weak spots that can rupture, or may create holes/defects in troublesome places. This leads to left-to-right shunting and cardiogenic shock."
     },
     {
         "question": "A 50-year-old woman presents with syncope and exertional dyspnea. Echocardiography reveals a mobile mass in the left atrium that intermittently obstructs the mitral valve. What is the most likely diagnosis?",
@@ -594,10 +593,10 @@
         "Methyldopa",
         "Losartan",
         "Propranolol",
-        "Labetalol"
+        "Amlodipine"
     ],
-    "correctAnswer": 4,
-    "explanation": "Methyldopa was the first-line antihypertensive in pregnancy due to its safety profile but more recently (according to lecture) labetalol has been proven to be better tolerated. ACE inhibitors (lisinopril) and ARBs (losartan) are contraindicated due to teratogenic effects. Beta-blockers (propranolol) and CCBs (amlodipine) are used in specific cases but are not first-line."
+    "correctAnswer": 1,
+    "explanation": "Methyldopa is a first-line antihypertensive in pregnancy due to its safety profile. ACE inhibitors (lisinopril) and ARBs (losartan) are contraindicated due to teratogenic effects. Beta-blockers (propranolol) and CCBs (amlodipine) are used in specific cases but are not first-line."
 },
 {
     "question": "A 72-year-old woman with hypertension is started on hydralazine. Two weeks later, she develops palpitations and flushing. Which of the following mechanisms best explains her symptoms?",
@@ -933,8 +932,7 @@
     ],
     "correctAnswer": 3,
     "explanation": "The correct answer is tobacco cessation (D). Although quitting smoking has been shown to improve cardiovascular mortality, it does not significantly reduce blood pressure. Alcohol cessation (A) can reduce systolic blood pressure by 7.2 mm Hg in heavy drinkers. The DASH diet (B) lowers systolic BP by 5.5 mm Hg, and exercise (C) can reduce systolic BP by 3.8 mm Hg. Weight loss (E) is the most effective intervention, lowering systolic BP by up to 8.5 mm Hg. Therefore, tobacco cessation is the least effective intervention for blood pressure reduction."
-}
-]
+},
 
 
 
