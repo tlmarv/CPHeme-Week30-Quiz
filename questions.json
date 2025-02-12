@@ -141,7 +141,7 @@
             "ACE inhibitors"
         ],
         "correctAnswer": 3,
-        "explanation": "SGLT2 inhibitors are recommended for patients with HFpEF as they reduce glucose reabsorption in renal tubules, which can help manage heart failure symptoms and potentially improve outcomes."
+        "explanation": "SGLT2 inhibitors are recommended for patients with HFpEF as they reduce glucose reabsorption in renal tubules, which can help manage heart failure symptoms and potentially improve outcomes. They have many effects such as weight loss, modest reduction in blood pressure, modest diuresis, and reduced mortality in HF."
     },
     {
         "question": "Which of the following best describes the primary goal of acute heart failure treatment compared to long-term management using the 'cardioprotective quad therapy'?",
@@ -152,7 +152,7 @@
             "Long-term improvement of ejection fraction versus immediate symptom relief"
         ],
         "correctAnswer": 0,
-        "explanation": "The primary goal of acute heart failure treatment is the immediate relief of symptoms, whereas long-term management focuses on cardioprotective strategies like the 'quad therapy' to prevent and potentially reverse cardiac remodeling."
+        "explanation": "The primary goal of acute heart failure treatment is the immediate relief of symptoms, whereas long-term management focuses on cardioprotective strategies like the 'quad therapy' to prevent and potentially reverse cardiac remodeling. Quad therapy starts off with an ACE Inhibitor with a beta blocker and is titrated up to an ARNI+beta blocker+ MRA+SGLT2."
     },
     {
         "question": "A patient with heart failure is being educated about the importance of continued medication adherence even after symptom improvement. This is due to the nature of heart failure staging. If a patient is initially categorized as Stage C heart failure and symptoms improve with treatment, what is the appropriate subsequent management approach?",
@@ -163,7 +163,7 @@
             "Progress to Stage D treatments as a preventative measure"
         ],
         "correctAnswer": 2,
-        "explanation": "Patients with Stage C heart failure who experience symptom improvement with treatment remain in Stage C and should continue with full therapeutic dosages of medications to manage the condition and prevent relapse or progression."
+        "explanation": "Patients with Stage C heart failure who experience symptom improvement with treatment remain in Stage C and should continue with full therapeutic dosages of medications to manage the condition and prevent relapse or progression. Dr. Thorton mentioned a patient that his collegaue allowed to reduce his medications and his heart failure relapsed and the patient died.."
     },
     {
         "question": "In heart failure management, which beta-blockers are specifically indicated for the treatment of heart failure with reduced ejection fraction (HFrEF)?",
@@ -174,18 +174,18 @@
             "Sotalol and Labetalol"
         ],
         "correctAnswer": 1,
-        "explanation": "Bisoprolol, Metoprolol succinate, and Carvedilol are specifically indicated for the treatment of heart failure with reduced ejection fraction (HFrEF) due to their proven benefits in improving survival and reducing hospitalizations in these patients."
+        "explanation": "Bisoprolol, Metoprolol succinate, and Carvedilol are specifically indicated for the treatment of heart failure with reduced ejection fraction (HFrEF) due to their proven benefits in improving survival and reducing hospitalizations in these patients. Metoprolol succinate and bisoprolol as they are B1 selective. Carvidilol because it blocks B1, B2, and A1 leading to decreased HR, contractility (inotropy), O2 consumption, and blocking vasoconstriction."
     },
     {
-        "question": "A patient suspected of heart failure presents with dyspnea, fatigue, and elevated B-type natriuretic peptide (BNP) levels. Given the high specificity and sensitivity of BNP in heart failure diagnosis, what are the expected values to confirm heart failure?",
+        "question": "A patient suspected of heart failure presents with dyspnea, fatigue, and elevated B-type natriuretic peptide (BNP) levels. Given the high specificity and NPV of BNP in heart failure diagnosis, what are the expected values for suspected heart failure?",
         "choices": [
             "BNP < 100 pg/mL",
-            "BNP 100-500 pg/mL",
+            "BNP >100 pg/mL",
             "BNP > 500 pg/mL",
             "BNP > 1000 pg/mL"
         ],
         "correctAnswer": 2,
-        "explanation": "A BNP level greater than 500 pg/mL is highly indicative of heart failure, given the peptide's 92% specificity and 98% sensitivity for diagnosing the condition, particularly in confirming congestive heart failure."
+        "explanation": "A BNP level greater than 100 pg/mL is highly indicative of heart failure, given the peptide's 92% specificity and 98% negative predictive vaule for diagnosing the condition, particularly in ruling OUT heart failure. If BNP is high it means HF is a possibility, it does not mean it is strictly HF."
     },
     {
         "question": "A 68-year-old patient with heart failure with preserved ejection fraction (HFpEF) is evaluated for additional therapeutic options. Which of the following medications, known primarily as a glucose-lowering agent, has been recently approved for use in HFpEF due to its effects on cardiac and renal function?",
@@ -209,20 +209,9 @@
             "ARNIs, beta-blockers, diuretics, digitalis"
         ],
         "correctAnswer": 0,
-        "explanation": "The 'cardioprotective quad therapy' for heart failure includes ACE inhibitors, beta-blockers, aldosterone antagonists, and SGLT2 inhibitors, which work synergistically to improve survival and reduce hospitalizations."
+        "explanation": "The 'cardioprotective quad therapy' for heart failure includes ACE inhibitors, beta-blockers, aldosterone antagonists, and SGLT2 inhibitors, which work synergistically to improve survival and reduce hospitalizations. DO NOT use with low GFR or rifampicin, phenytoin, ritonavir (gluconuridation drugs)."
     },
-    {
-        "question": "Considering the mechanism of action of potassium-sparing diuretics, which drug would be most appropriate for a patient with heart failure and concurrent liver cirrhosis presenting with ascites?",
-        "choices": [
-            "Furosemide",
-            "Spironolactone",
-            "Hydrochlorothiazide",
-            "Acetazolamide",
-            "Mannitol"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Spironolactone, an aldosterone antagonist, is particularly effective in patients with heart failure and liver cirrhosis due to its ability to counteract hyperaldosteronism commonly present in these conditions, making it suitable for managing ascites."
-    },
+
     {
         "question": "A patient on treatment for heart failure presents with an increased BNP level and worsening dyspnea. Which of the following is the most likely cause of these findings?",
         "choices": [
@@ -236,7 +225,7 @@
         "explanation": "An increased BNP level in conjunction with worsening dyspnea is strongly indicative of worsening heart failure, reflecting increased ventricular pressure and stress."
     },
     {
-        "question": "In a patient with heart failure, urinalysis shows increased sodium and decreased potassium levels after initiation of a new medication. Which class of diuretic was most likely started?",
+        "question": "In a patient with heart failure, urinalysis shows increased sodium and urine potassium levels after initiation of a new medication. Which class of diuretic was most likely started?",
         "choices": [
             "Loop diuretics",
             "Thiazides",
@@ -245,31 +234,19 @@
             "Osmotic diuretics"
         ],
         "correctAnswer": 0,
-        "explanation": "Loop diuretics are likely responsible for the observed changes in urine composition, as they increase sodium excretion and can lead to decreased potassium levels due to their mechanism of action on the Na-K-2Cl co-transporter."
+        "explanation": "Loop diuretics are likely responsible for the observed changes in urine composition, as they increase electrolyte excretion and can lead to decreased serum electrolyte levels due to their mechanism of action on the Na-K-2Cl co-transporter. Remember toxicities are LOOP: Low Calcium, Sodium, Potassium, Chloride, and Magnesium; Ototoxicity, (Blood) Pressure decrease. This can trigger gout and metabolic alkalosis."
     },
-    {
-        "question": "A 72-year-old male with suspected heart failure presents with dyspnea and ankle edema. Given its high negative predictive value and specificity, which biomarker is most reliable for confirming the diagnosis of congestive heart failure?",
-        "choices": [
-            "C-reactive protein",
-            "Serum creatinine",
-            "B-type natriuretic peptide (BNP)",
-            "Liver function tests",
-            "Serum electrolytes"
-        ],
-        "correctAnswer": 2,
-        "explanation": "B-type natriuretic peptide (BNP) is the most reliable biomarker for diagnosing congestive heart failure due to its high negative predictive value, 92% specificity, and 98% sensitivity."
-    },
-    {
+       {
         "question": "In a clinical trial studying the effects of heart failure medications, one group of patients showed significant improvement in symptoms and a reduction in heart failure hospitalizations compared to those on ACE inhibitors or ARBs alone. Which medication, a combination of a neprilysin inhibitor and an ARB, is responsible for these outcomes?",
         "choices": [
             "Losartan",
             "Metoprolol",
-            "Entresto (Sacubitril/Valsartan)",
+            "Entresto",
             "Spironolactone",
             "Digoxin"
         ],
         "correctAnswer": 2,
-        "explanation": "Entresto (Sacubitril/Valsartan), an ARNI (angiotensin receptor-neprilysin inhibitor), has been shown to significantly improve symptoms and reduce hospitalizations in heart failure patients compared to traditional therapy with ACE inhibitors or ARBs."
+        "explanation": "Entresto (Sacubitril/Valsartan), an ARNI (angiotensin receptor-neprilysin inhibitor), has been shown to significantly improve symptoms and reduce hospitalizations in heart failure patients compared to traditional therapy with ACE inhibitors or ARBs. Neprilysin inhibition increases levels of natriuretic peptides (BNP, ANP), leading to vasodilation, natriuresis, and reduced aldosterone and sympathetic activity, which helps lower blood pressure and reduce fluid overload. This improves cardiac function and reduces heart failure progression by preventing cardiac remodeling."
     },
     {
         "question": "A patient with chronic heart failure and a history of NSAID use reports increased urination and reduced edema after a change in medication. This diuretic class also stimulates prostaglandin release, which may enhance its diuretic and natriuretic effects. Which class of diuretic is likely being used?",
@@ -281,7 +258,7 @@
             "Osmotic diuretics"
         ],
         "correctAnswer": 0,
-        "explanation": "Loop diuretics not only increase urine production but also stimulate prostaglandin release, which can lead to enhanced diuretic and natriuretic effects, particularly evident in patients taking NSAIDs."
+        "explanation": "Loop diuretics not only increase urine production but also stimulate prostaglandin release, which can lead to enhanced diuretic and natriuretic effects, via vasodilation of the afferent arteriole. Additional factoid- loop diuretics are sulfa based drugs so they can cause allergic reactions to those allergic to sulfa."
     },
     {
         "question": "A patient with heart failure and liver cirrhosis develops worsening ascites. Considering the pathophysiology of cirrhosis and its impact on fluid balance, which diuretic is considered the treatment of choice for managing fluid retention in this patient?",
@@ -390,7 +367,7 @@
             "Exercise ECG, poor sensitivity without imaging"
         ],
         "correctAnswer": 1,
-        "explanation": "Coronary calcium scoring provides a quantifiable measure of calcified plaque in coronary arteries and is readily available and inexpensive. However, it has very low specificity, particularly in older patients, and also exposes patients to radiation."
+        "explanation": "Coronary calcium scoring provides a quantifiable measure of calcified plaque in coronary arteries and is readily available and inexpensive and no need to exercise. However, it has very low specificity, particularly in older patients, and also exposes patients to radiation. Additionally it provides no functional information."
     },
     {
         "question": "A patient presents with chest pain described as pressure worsening with exertion and relieved by rest. Which type of angina is most consistent with these symptoms and what is the typical management strategy?",
@@ -486,7 +463,7 @@
             "Current use of anticoagulant therapy with INR 2.0"
         ],
         "correctAnswer": 2,
-        "explanation": "Known structural cerebral vascular lesions are an absolute contraindication for fibrinolytic therapy due to the high risk of bleeding, including intracranial hemorrhage. Other factors, such as controlled hypertension or a distant history of stroke, may pose relative risks but are not absolute contraindications."
+        "explanation": "Known structural cerebral vascular lesions are an absolute contraindication for fibrinolytic therapy due to the high risk of bleeding, including intracranial hemorrhage. Other factors, such as controlled hypertension or a distant history of stroke, may pose relative risks but are not absolute contraindications. If you have an ischemic stroke within 3 months then it is contraindicated UNLESS it was within 4.5 hours."
     },
     {
         "question": "A 50-year-old male with NSTEMI has a TIMI risk score of 4. Based on this score, what is the appropriate management strategy?",
@@ -497,8 +474,8 @@
             "Observation in the emergency room with serial ECGs",
             "Initiation of fibrinolytic therapy"
         ],
-        "correctAnswer": 2,
-        "explanation": "A TIMI risk score of 4 places the patient at intermediate to high risk for adverse cardiac events. An invasive strategy, which typically includes coronary angiography, is recommended for patients with intermediate to high TIMI scores to identify and treat significant coronary artery blockages."
+        "correctAnswer": 4,
+        "explanation": "A TIMI risk score of 4 places the patient at intermediate to high risk for adverse cardiac events. Anything over 3+ means they should stay in the hospital. An invasive strategy, which typically includes coronary angiography, is recommended for patients with intermediate to high TIMI scores to identify and treat significant coronary artery blockages. You get a point for being over 65, 3 or more CAD risks, known CAD, recent angina, increased cardiac markers (troponin), ST deviation > 0.5mm, and aspirin use within the past 7 days."
     },
     {
         "question": "What is the mechanism of action of fondaparinux and why is it preferred in the early hospital care of acute coronary syndrome?",
