@@ -1,939 +1,790 @@
 [
 {
-        "question": "A scientist is studying the enzymatic pathway of norepinephrine (NE) biosynthesis. Inhibiting which of the following enzymes would directly lead to a decreased synthesis of norepinephrine within adrenergic neurons?",
-        "choices": [
-            "Phenylethanolamine N-methyltransferase (PNMT)",
-            "Monoamine oxidase (MAO)",
-            "Dopamine β-hydroxylase (DBH)",
-            "Tyrosinase",
-            "Catechol-O-methyltransferase (COMT)"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Norepinephrine is synthesized from dopamine by dopamine β-hydroxylase (DBH) inside synaptic vesicles. Inhibiting this enzyme would directly reduce norepinephrine production. PNMT converts norepinephrine to epinephrine, MAO and COMT degrade catecholamines, and tyrosinase is unrelated to NE biosynthesis."
-    },
-    {
-        "question": "A 55-year-old man with chronic heart failure is prescribed a medication that selectively stimulates beta-1 adrenergic receptors to enhance myocardial contractility without significantly increasing peripheral resistance. Which of the following drugs best matches this profile?",
-        "choices": [
-            "Epinephrine",
-            "Phenylephrine",
-            "Dobutamine",
-            "Clonidine",
-            "Albuterol"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Dobutamine is a selective beta-1 agonist that increases cardiac contractility (inotropy) while having minimal effects on vascular resistance. Epinephrine stimulates both alpha and beta receptors, phenylephrine is an alpha-1 agonist, clonidine is an alpha-2 agonist, and albuterol is a beta-2 agonist."
-    },
-    {
-        "question": "A pharmacology student is asked to rank catecholamines based on their relative potency at stimulating beta-2 adrenergic receptors. Which of the following correctly lists the rank order of potency?",
-        "choices": [
-            "Epinephrine > Norepinephrine > Isoproterenol",
-            "Isoproterenol > Epinephrine > Norepinephrine",
-            "Norepinephrine > Epinephrine > Isoproterenol",
-            "Epinephrine > Isoproterenol > Norepinephrine",
-            "Norepinephrine > Isoproterenol > Epinephrine"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The rank order of beta-2 receptor potency is Isoproterenol > Epinephrine >> Norepinephrine. Isoproterenol is a nearly pure beta agonist, while epinephrine has moderate beta-2 activity, and norepinephrine has very weak beta-2 activity."
-    },
-    {
-        "question": "A patient undergoing spinal anesthesia develops profound hypotension due to sympathetic blockade. The anesthesiologist administers a drug that selectively stimulates alpha-1 adrenergic receptors to increase systemic vascular resistance and restore blood pressure. Which of the following is the most appropriate choice?",
-        "choices": [
-            "Dobutamine",
-            "Epinephrine",
-            "Albuterol",
-            "Phenylephrine",
-            "Isoproterenol"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Phenylephrine is a selective alpha-1 adrenergic agonist that increases systemic vascular resistance via vasoconstriction, making it useful for treating hypotension during spinal anesthesia. Dobutamine (beta-1), epinephrine (alpha and beta), albuterol (beta-2), and isoproterenol (beta-1 and beta-2) do not primarily target alpha-1 receptors."
-    },
-    {
-        "question": "A 65-year-old man with a history of hypertension is prescribed clonidine. Which of the following best describes the mechanism by which clonidine lowers blood pressure?",
-        "choices": [
-            "Direct vasodilation by activating beta-2 adrenergic receptors",
-            "Increasing norepinephrine release from presynaptic neurons",
-            "Stimulating alpha-1 receptors to increase vascular tone",
-            "Reducing sympathetic outflow by stimulating central alpha-2 receptors",
-            "Blocking beta-1 receptors on the heart to reduce cardiac output"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Clonidine is an alpha-2 adrenergic agonist that acts centrally to inhibit sympathetic outflow, leading to decreased norepinephrine release and a reduction in blood pressure. It does not directly affect vascular tone or beta receptors."
-    },
-    {
-        "question": "A 45-year-old woman with asthma is given a beta-2 agonist to relieve bronchoconstriction. Which of the following side effects is most likely to occur due to beta-2 receptor activation?",
-        "choices": [
-            "Bradycardia",
-            "Hypotension",
-            "Hypoglycemia",
-            "Tremors",
-            "Miosis"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Beta-2 agonists like albuterol can cause tremors due to increased skeletal muscle activity. Other side effects include tachycardia (due to some beta-1 spillover), hypokalemia, and mild hyperglycemia due to glycogenolysis. Hypotension, hypoglycemia, and miosis are not typical effects of beta-2 activation."
-    },
-    {
-        "question": "A researcher is studying the effects of adrenergic receptor antagonists on cardiovascular function. Blocking which of the following receptors would most significantly reduce heart rate and cardiac contractility?",
-        "choices": [
-            "Alpha-1 adrenergic receptors",
-            "Beta-1 adrenergic receptors",
-            "Beta-2 adrenergic receptors",
-            "Alpha-2 adrenergic receptors",
-            "Dopamine receptors"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Beta-1 adrenergic receptors are primarily located in the heart and mediate increased heart rate (chronotropy) and contractility (inotropy). Blocking these receptors (e.g., with metoprolol or atenolol) reduces cardiac output and lowers blood pressure."
-    },
-    {
-        "question": "A 30-year-old patient presents to the emergency department with anaphylaxis following a bee sting. The physician administers epinephrine intramuscularly. Which of the following explains why epinephrine is the drug of choice in this situation?",
-        "choices": [
-            "Selective alpha-1 agonism to reduce airway swelling",
-            "Selective beta-2 activation to relieve bronchoconstriction",
-            "Balanced alpha and beta activation to increase blood pressure and bronchodilation",
-            "Beta-1 blockade to reduce tachycardia",
-            "Inhibition of histamine release via H1 receptor blockade"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Epinephrine is the drug of choice for anaphylaxis because it has both alpha and beta adrenergic effects: - Alpha-1: Vasoconstriction, which reduces airway swelling and maintains blood pressure. - Beta-1: Increases heart rate and cardiac output to prevent cardiovascular collapse. - Beta-2: Bronchodilation, which relieves respiratory distress. These combined effects make epinephrine the most effective treatment for anaphylaxis."
-    },
-    {
-        "question": "A 65-year-old man is diagnosed with heart failure and prescribed an ACE inhibitor. Which of the following best explains the mechanism by which ACE inhibitors lower blood pressure?",
-        "choices": [
-            "Inhibition of the conversion of angiotensinogen to angiotensin I",
-            "Direct inhibition of renin secretion from juxtaglomerular cells",
-            "Inhibition of angiotensin II-mediated vasoconstriction and aldosterone release",
-            "Blockade of angiotensin II receptors on vascular smooth muscle",
-            "Direct inhibition of sodium reabsorption in the renal tubules"
-        ],
-        "correctAnswer": 2,
-        "explanation": "ACE inhibitors prevent the conversion of angiotensin I to angiotensin II, reducing vasoconstriction and aldosterone release. This leads to lower systemic vascular resistance and decreased sodium retention. They do not directly inhibit renin secretion or act as angiotensin receptor blockers (ARBs)."
-    },
-    {
-        "question": "A patient experiences orthostatic hypotension upon standing. Which of the following best explains the failure of the baroreceptor reflex in maintaining blood pressure in this patient?",
-        "choices": [
-            "Failure to activate sympathetic outflow to vasoconstrictor nerves",
-            "Increased vagal tone leading to bradycardia",
-            "Increased circulating angiotensin II levels",
-            "Excessive sodium and water retention by the kidneys",
-            "Overactivation of alpha-2 adrenergic receptors"
-        ],
-        "correctAnswer": 0,
-        "explanation": "The baroreceptor reflex maintains blood pressure by activating sympathetic outflow when blood pressure drops. In orthostatic hypotension, the failure to activate this response leads to inadequate vasoconstriction and a drop in blood pressure upon standing."
-    },
-    {
-        "question": "A hypovolemic patient presents with tachycardia but a normal blood pressure. Which of the following best explains why blood pressure remains normal despite blood loss?",
-        "choices": [
-            "Decreased baroreceptor firing increases sympathetic tone",
-            "Increased parasympathetic activity maintains cardiac output",
-            "Vasodilation mediated by beta-2 adrenergic receptors",
-            "Decreased renin release increases sodium retention",
-            "Suppression of vasopressin release maintains vascular tone"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Baroreceptors detect decreased stretch and activate the sympathetic nervous system, leading to increased heart rate and vasoconstriction, thereby maintaining blood pressure. Parasympathetic activity would reduce cardiac output, and vasopressin is increased, not suppressed, in hypovolemia."
-    },
-    {
-        "question": "A 30-year-old woman experiences anaphylactic shock after exposure to peanuts. Epinephrine is administered as the first-line treatment. Which of the following best explains the effectiveness of epinephrine in this scenario?",
-        "choices": [
-            "Selective alpha-1 activation increases vascular permeability",
-            "Beta-1 activation leads to a decrease in heart rate and myocardial contractility",
-            "Beta-2 activation leads to bronchodilation and reduced airway resistance",
-            "Angiotensin II-mediated vasoconstriction prevents vascular collapse",
-            "Parasympathetic activation counteracts histamine release"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Epinephrine is effective in anaphylaxis due to its beta-2-mediated bronchodilation and alpha-1-mediated vasoconstriction, counteracting histamine-induced airway edema and hypotension. It also increases heart rate and cardiac output via beta-1 stimulation."
-    },
-    {
-        "question": "A patient with septic shock is found to have widespread vasodilation and hypotension. Which of the following compensatory mechanisms is most likely activated in response to this condition?",
-        "choices": [
-            "Inhibition of vasopressin (ADH) release",
-            "Suppression of sympathetic nervous system activity",
-            "Activation of the renin-angiotensin-aldosterone system (RAAS)",
-            "Increased natriuretic peptide release",
-            "Inhibition of baroreceptor activity"
-        ],
-        "correctAnswer": 2,
-        "explanation": "In septic shock, widespread vasodilation leads to decreased perfusion pressure, which activates RAAS to increase angiotensin II and aldosterone, promoting vasoconstriction and sodium retention to restore blood pressure. Vasopressin is also increased, not inhibited."
-    },
-    {
-        "question": "A 72-year-old woman presents with severe dehydration after a prolonged heatwave. Which of the following mechanisms is most responsible for maintaining her blood pressure?",
-        "choices": [
-            "Activation of beta-2 adrenergic receptors to increase cardiac output",
-            "Inhibition of aldosterone release to decrease sodium retention",
-            "Increased ADH release to promote water retention",
-            "Suppression of sympathetic nervous system activity",
-            "Inhibition of angiotensin II-mediated vasoconstriction"
-        ],
-        "correctAnswer": 2,
-        "explanation": "In dehydration, ADH (vasopressin) release increases renal water reabsorption, helping maintain blood volume and blood pressure. Angiotensin II is also increased to promote vasoconstriction. Aldosterone secretion is stimulated to retain sodium."
-    },
-    {
-        "question": "A researcher is investigating the effects of angiotensin II receptor blockers (ARBs) on the renin-angiotensin system. Which of the following changes would most likely be seen in patients taking ARBs?",
-        "choices": [
-            "Increased plasma renin activity and angiotensin II levels",
-            "increased aldosterone levels and increased angiotensin II levels",
-            "Suppressed renin release and decreased angiotensin II levels",
-            "Increased sodium retention and plasma volume expansion",
-            "Increased aldosterone secretion and vasoconstriction"
-        ],
-        "correctAnswer": 0,
-        "explanation": "ARBs block angiotensin II receptors, leading to increased renin release (due to loss of feedback inhibition) and elevated angiotensin II levels, but the blocked receptors prevent vasoconstriction and aldosterone secretion, ultimately reducing blood pressure."
-    },
-    {
-        "question": "A 50-year-old man presents with hypertensive crisis and is given labetalol. How does this medication lower blood pressure?",
-        "choices": [
-            "Selective beta-2 activation to cause vasodilation",
-            "Selective alpha-2 receptor blockade reducing vascular resistance",
-            "Non-selective beta and alpha blockade decreasing cardiac output and vasoconstriction",
-            "Inhibition of angiotensin II synthesis to reduce vascular tone",
-            "Direct inhibition of sodium reabsorption in the kidneys"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Labetalol is a non-selective beta and alpha-1 blocker. Beta-blockade reduces heart rate and contractility, while alpha-1 blockade decreases vascular resistance, leading to lower blood pressure. It does not affect sodium reabsorption or angiotensin II synthesis directly."
-    },
-    {
-        "question": "A 55-year-old man with hypertension is started on a diuretic. Two weeks later, his blood pressure has decreased significantly, but his 24-hour urinary sodium excretion remains unchanged. Which of the following best explains this finding?",
-        "choices": [
-            "Diuretics have no effect on renal sodium handling",
-            "Compensatory mechanisms restore sodium balance",
-            "The patient has developed diuretic resistance",
-            "Sodium intake has significantly decreased",
-            "Diuretics cause irreversible sodium loss"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Diuretics initially increase sodium excretion, but over time, the kidneys adjust to maintain sodium balance at a lower blood pressure set-point. This explains why urinary sodium excretion is unchanged despite a decrease in blood pressure."
-    },
-    {
-        "question": "A researcher is studying the effect of arterial pressure on sodium excretion. He finds that increasing renal perfusion pressure leads to increased sodium excretion, independent of hormonal influences. What is the name of this mechanism?",
-        "choices": [
-            "Renin-angiotensin-aldosterone system activation",
-            "Pressure natriuresis",
-            "Tubuloglomerular feedback",
-            "Sympathetic nervous system modulation",
-            "Osmotic diuresis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Pressure natriuresis is the process by which an increase in renal perfusion pressure directly increases sodium excretion. This mechanism serves as a 'pressure relief valve' to prevent excessive increases in blood volume and blood pressure."
-    },
-    {
-        "question": "A 65-year-old man with a history of atherosclerosis is diagnosed with unilateral renal artery stenosis. Which of the following best describes the renin secretion pattern in this patient?",
-        "choices": [
-            "Renin secretion is low in both kidneys",
-            "Renin secretion is high in both kidneys",
-            "Renin secretion is high in the stenosed kidney and low in the normal kidney",
-            "Renin secretion is low in the stenosed kidney and high in the normal kidney",
-            "Renin secretion is unaffected by renal artery stenosis"
-        ],
-        "correctAnswer": 2,
-        "explanation": "In unilateral renal artery stenosis, the stenosed kidney experiences low perfusion pressure and responds by increasing renin secretion. The unaffected kidney, exposed to high systemic pressure, suppresses renin release, leading to an overall increase in circulating renin levels."
-    },
-    {
-        "question": "A patient with bilateral renal artery stenosis presents with severe hypertension. Compared to unilateral stenosis, what is the most likely difference in renin secretion?",
-        "choices": [
-            "Renin secretion is lower than in unilateral renal artery stenosis",
-            "Renin secretion is higher than in unilateral renal artery stenosis",
-            "Renin secretion is unchanged",
-            "Renin secretion is completely suppressed",
-            "Renin secretion fluctuates randomly"
-        ],
-        "correctAnswer": 0,
-        "explanation": "In bilateral renal artery stenosis, both kidneys sense reduced perfusion and initially increase renin secretion. However, as blood pressure rises to overcome the stenosis, renin levels return closer to normal, unlike in unilateral stenosis where renin remains persistently elevated."
-    },
-       {
-        "question": "A newborn is diagnosed with aortic coarctation. His blood pressure is found to be high in the upper extremities but normal in the lower extremities. How does this condition affect renin secretion?",
-        "choices": [
-            "Renin secretion is increased due to low renal perfusion pressure",
-            "Renin secretion is decreased due to high systemic blood pressure",
-            "Renin secretion is unchanged because renal perfusion remains constant",
-            "Renin secretion is suppressed by increased vagal tone",
-            "Renin secretion fluctuates with postural changes"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Aortic coarctation creates a pressure gradient: hypertension above the coarctation and normal-to-low pressure below it. The kidneys experience reduced perfusion and respond by increasing renin secretion, exacerbating systemic hypertension."
-    },
-    {
-        "question": "A 50-year-old woman with a history of uncontrolled hypertension is found to have left ventricular hypertrophy and proteinuria. Which of the following best explains the pathophysiology of her hypertension?",
-        "choices": [
-            "Inability of the kidneys to excrete sodium at normal blood pressure",
-            "Increased cardiac output due to sympathetic overactivity",
-            "Isolated peripheral vasoconstriction without renal involvement",
-            "Primary adrenal hyperplasia leading to volume expansion",
-            "Baroreceptor dysfunction leading to erratic blood pressure control"
-        ],
-        "correctAnswer": 0,
-        "explanation": "All forms of hypertension are ultimately due to the kidney's inability to excrete sodium at normal blood pressure. This leads to volume expansion and a shift in the blood pressure set-point, requiring higher pressures to maintain sodium balance."
-    },
-    {
-        "question": "A patient with severe hypertension is treated with angiotensin-converting enzyme (ACE) inhibitors. Which of the following is the primary mechanism by which ACE inhibitors reduce blood pressure?",
-        "choices": [
-            "Direct vasodilation by blocking alpha-1 receptors",
-            "Inhibition of sodium reabsorption in the distal tubule",
-            "Reduction of angiotensin II-mediated vasoconstriction and aldosterone release",
-            "Suppression of baroreceptor activity in the carotid sinus",
-            "Increased release of vasopressin from the posterior pituitary"
-        ],
-        "correctAnswer": 2,
-        "explanation": "ACE inhibitors reduce blood pressure by blocking angiotensin II formation, leading to vasodilation and reduced aldosterone secretion. This lowers systemic vascular resistance and decreases sodium retention, effectively lowering blood pressure over time."
-    },
-    {
-        "question": "A 67-year-old man with long-standing hypertension and coronary artery disease presents with dyspnea on exertion and orthopnea. Examination reveals bibasilar crackles and an S3 gallop. Which of the following best describes the pathophysiology underlying this patient's symptoms?",
-        "choices": [
-            "Right ventricular hypertrophy leading to systemic venous congestion",
-            "Increased left ventricular end-diastolic pressure causing pulmonary venous congestion",
-            "Elevated right atrial pressure leading to decreased cardiac output",
-            "Increased pulmonary vascular resistance causing right ventricular failure",
-            "Chronic volume overload leading to left ventricular wall thinning"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The patient's symptoms indicate left-sided heart failure. The failing left ventricle leads to increased end-diastolic pressure, which backs up into the pulmonary circulation, causing pulmonary venous congestion and pulmonary edema. This explains the dyspnea and bibasilar crackles."
-    },
-    {
-        "question": "A 70-year-old woman with a history of COPD presents with worsening lower extremity edema, jugular venous distension, and hepatomegaly. Which of the following is the most likely underlying cause of her condition?",
-        "choices": [
-            "Chronic pulmonary hypertension leading to right ventricular failure",
-            "Acute myocardial infarction affecting the right coronary artery",
-            "Systemic hypertension leading to left ventricular hypertrophy",
-            "Mitral stenosis causing left atrial dilation",
-            "Aortic stenosis leading to left ventricular outflow obstruction"
-        ],
-        "correctAnswer": 0,
-        "explanation": "The patient's right-sided heart failure is likely due to cor pulmonale (right heart failure secondary to lung disease). Chronic pulmonary hypertension from COPD increases right ventricular afterload, leading to systemic venous congestion and associated symptoms such as peripheral edema, JVD, and hepatomegaly (nutmeg liver)."
-    },
-    {
-        "question": "A 58-year-old man with hyperlipidemia and hypertension dies suddenly. Autopsy reveals a completely occluded left anterior descending (LAD) artery with a superimposed thrombus. Which of the following best describes the initiating event leading to this pathology?",
-        "choices": [
-            "Progressive luminal narrowing by smooth muscle proliferation",
-            "Endothelial injury leading to thrombosis",
-            "Plaque rupture with exposure of subendothelial collagen",
-            "Vasospasm-induced arterial constriction",
-            "Calcification of the arterial intima"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Myocardial infarction (MI) due to occlusive coronary artery disease is most often caused by plaque rupture, which exposes subendothelial collagen and tissue factor, triggering platelet aggregation and thrombus formation. This leads to acute coronary artery occlusion and infarction."
-    },
-    {
-        "question": "A 62-year-old man presents with crushing substernal chest pain for 2 hours. An ECG shows ST-segment elevations in leads V1-V4. Which of the following best describes the gross appearance of the infarcted myocardium at this stage?",
-        "choices": [
-            "No visible changes",
-            "Dark mottling",
-            "Pale yellow infarct",
-            "Hyperemic border with central softening",
-            "White fibrotic scar"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Within the first 12 hours of an MI, there are no grossly visible changes. The earliest histological changes include wavy fibers and mitochondrial swelling. By 12-24 hours, infarcted myocardium appears dark mottled, and coagulative necrosis becomes apparent."
-    },
-    {
-        "question": "A 72-year-old woman is admitted with an ST-elevation myocardial infarction (STEMI). Three days later, she develops severe mitral regurgitation and pulmonary edema. Rupture of which of the following structures is the most likely cause?",
-        "choices": [
-            "Left ventricular free wall",
-            "Papillary muscle",
-            "Interventricular septum",
-            "Pericardium",
-            "Right atrial appendage"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Rupture of the papillary muscle is a known complication of an MI occurring 3-5 days post-infarction, leading to acute mitral regurgitation and pulmonary edema. The posteromedial papillary muscle is at greatest risk due to its single blood supply from the right coronary artery."
-    },
-    {
-        "question": "A 68-year-old man presents with chest pain and syncope one week after an MI. Echocardiography reveals a ruptured interventricular septum. What is the most likely underlying pathological finding?",
-        "choices": [
-            "Granulation tissue formation",
-            "Coagulative necrosis with macrophagic infiltration",
-            "Dense collagen deposition",
-            "Hypertrophic myocardial fibers",
-            "Calcified atheromatous plaque"
-        ],
-        "correctAnswer": 1,
-        "explanation": "They phagocytose the dead tissue, and this is what makes this time point so dangerous in terms of complications, you have maximally, dead cardiac tissue that is being cleared away, with nothing yet replacing it.  This creates weak spots that can rupture, or may create holes/defects in troublesome places. This leads to left-to-right shunting and cardiogenic shock."
-    },
-    {
-        "question": "A 50-year-old woman presents with syncope and exertional dyspnea. Echocardiography reveals a mobile mass in the left atrium that intermittently obstructs the mitral valve. What is the most likely diagnosis?",
-        "choices": [
-            "Metastatic lung cancer",
-            "Cardiac lymphoma",
-            "Atrial myxoma",
-            "Fibroelastoma",
-            "Lipoma"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Atrial myxomas are the most common primary cardiac tumors. They often arise in the left atrium and can cause a 'ball-valve' effect, leading to intermittent obstruction of the mitral valve and syncopal episodes."
-    },
-    {
-        "question": "A 65-year-old man with a history of lung cancer presents with dyspnea and distant heart sounds. Echocardiography shows a large pericardial effusion with signs of tamponade. Which of the following best explains the origin of his cardiac tumor?",
-        "choices": [
-            "Primary sarcoma of the heart",
-            "Myxoma originating in the left atrium",
-            "Metastasis from the lung",
-            "Aortic valve fibroelastoma",
-            "Pericardial mesothelioma"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Metastatic tumors are the most common cardiac tumors, with lung and breast cancer being the most frequent sources. They typically involve the pericardium, leading to pericardial effusion and tamponade."
-    },
-    {
-        "question": "A 62-year-old man presents to his primary care physician for a routine check-up. His blood pressure readings are consistently 146/92 mmHg over multiple visits. According to the 2017 ACC/AHA guidelines, which of the following is the correct classification for this patient’s blood pressure?",
-        "choices": [
-            "Normal",
-            "Elevated blood pressure",
-            "Stage 1 hypertension",
-            "Stage 2 hypertension",
-            "Hypertensive emergency"
-        ],
-        "correctAnswer": 3,
-        "explanation": "According to the 2017 ACC/AHA guidelines, stage 2 hypertension is defined as SBP ≥ 140 mmHg or DBP ≥ 90 mmHg. This patient has a DBP of 92 mmHg, which meets the criteria for stage 2 hypertension."
-    },
-    {
-        "question": "A 58-year-old woman with hypertension is found to have hypokalemia and metabolic alkalosis on routine lab testing. Further testing reveals suppressed renin levels and elevated aldosterone levels. Which of the following is the most likely cause of her hypertension?",
-        "choices": [
-            "Renal artery stenosis",
-            "Primary aldosteronism",
-            "Pheochromocytoma",
-            "Liddle syndrome",
-            "Chronic kidney disease"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Primary aldosteronism (Conn syndrome) is characterized by autonomous aldosterone secretion, leading to hypertension, hypokalemia, and metabolic alkalosis. The low renin and high aldosterone levels help distinguish it from renovascular hypertension, which presents with elevated renin levels."
-    },
-    {
-        "question": "A 65-year-old African American man with hypertension is started on pharmacologic therapy. According to current guidelines, which of the following is the most appropriate first-line treatment for this patient?",
-        "choices": [
-            "Beta-blocker",
-            "ACE inhibitor",
-            "Angiotensin receptor blocker (ARB)",
-            "Thiazide diuretic or calcium channel blocker",
-            "Aldosterone antagonist"
-        ],
-        "correctAnswer": 3,
-        "explanation": "In Black patients, thiazide diuretics and calcium channel blockers (CCBs) are recommended as first-line therapy for hypertension due to their superior efficacy in this population. ACE inhibitors and ARBs are less effective as monotherapy due to lower renin levels in Black patients."
-    },
-    {
-        "question": "A 72-year-old woman with a history of hypertension and diabetes presents with a blood pressure of 142/88 mmHg. According to current guidelines, what is the most appropriate blood pressure goal for this patient?",
-        "choices": [
-            "<150/90 mmHg",
-            "<140/90 mmHg",
-            "<130/80 mmHg",
-            "<120/80 mmHg",
-            "No treatment is needed"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Patients with diabetes or chronic kidney disease should have a target BP of <130/80 mmHg to reduce the risk of cardiovascular and renal complications. The goal for the general population over 60 without comorbidities is <140/90 mmHg."
-    },
-    {
-        "question": "A 35-year-old man presents with episodic headaches, sweating, and palpitations. His blood pressure is 195/110 mmHg. Urinary metanephrines and normetanephrines are significantly elevated. Which of the following medications should be given first before surgical intervention?",
-        "choices": [
-            "Beta-blocker",
-            "Alpha-blocker",
-            "Calcium channel blocker",
-            "ACE inhibitor",
-            "Diuretic"
-        ],
-        "correctAnswer": 1,
-        "explanation": "This patient likely has pheochromocytoma, a catecholamine-secreting tumor. The correct approach is to give an alpha-blocker (e.g., phenoxybenzamine) before a beta-blocker to prevent unopposed alpha stimulation, which could worsen hypertension."
-    },
-    {
-        "question": "A patient with a history of hypertension presents with a blood pressure of 188/122 mmHg, but has no signs of end-organ damage. Which of the following is the best initial management?",
-        "choices": [
-            "Immediate IV antihypertensives",
-            "Oral antihypertensives with gradual reduction over hours to days",
-            "Emergency dialysis",
-            "Plasma exchange",
-            "Observation without treatment"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Hypertensive urgency is defined as severely elevated blood pressure (≥180/120 mmHg) without acute end-organ damage. Treatment involves gradual BP reduction over 24-48 hours with oral antihypertensives to prevent ischemic complications."
-    },
-    {
-        "question": "A 45-year-old woman with a history of hypertension presents with acute confusion and severe headache. Her BP is 210/130 mmHg, and fundoscopy shows papilledema. Which of the following is the most appropriate next step in management?",
-        "choices": [
-            "Oral clonidine",
-            "IV labetalol",
-            "Observation without treatment",
-            "Oral hydrochlorothiazide",
-            "Subcutaneous furosemide"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Hypertensive emergency is defined as BP ≥180/120 mmHg with end-organ damage (e.g., encephalopathy, papilledema, renal dysfunction). IV antihypertensives (e.g., labetalol, nicardipine, nitroprusside) are required for rapid but controlled BP reduction."
-    },
-    {
-        "question": "A 70-year-old man with chronic hypertension presents with exertional dyspnea and lower extremity edema. Echocardiography shows left ventricular hypertrophy and a preserved ejection fraction. Which of the following best explains his symptoms?",
-        "choices": [
-            "Systolic heart failure",
-            "Diastolic heart failure",
-            "Chronic kidney disease",
-            "Aortic dissection",
-            "Mitral stenosis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Long-standing hypertension leads to left ventricular hypertrophy (LVH), which impairs ventricular relaxation, causing diastolic heart failure (heart failure with preserved ejection fraction, HFpEF). This condition presents with exertional dyspnea and signs of volume overload."
-    },
-{
-    "question": "A 62-year-old woman who recently traveled from Nigeria presents with acute unilateral leg pain and swelling. On examination, her right calf is tender, erythematous, and warm. Doppler ultrasonography confirms a deep vein thrombosis (DVT) in the femoral vein. Which of the following is the most appropriate initial treatment?",
+    "question": "What does the end systolic pressure-volume relationship curve on a pressure-volume loop represent?",
     "choices": [
-        "Serologic tests for hypercoagulability",
-        "Initiation of warfarin alone",
-        "Initiation of heparin followed by bridging to warfarin",
-        "Thrombolysis with tissue plasminogen activator (tPA)",
-        "Observation and repeat Doppler ultrasound in 48 hours"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Patients with a confirmed DVT should be started on immediate anticoagulation with heparin (UFH or LMWH), followed by bridging to warfarin. Warfarin should never be used alone initially, as it transiently decreases protein C levels, increasing clot risk. Thrombolysis (tPA) is reserved for massive PE or phlegmasia cerulea dolens."
-},
-{
-    "question": "A 72-year-old obese woman collapses three days after a long-haul flight from California to New York. She is hypotensive and unresponsive in the emergency department. Three days later, she dies. Autopsy reveals multiple emboli in the distal branches of the left middle cerebral artery and the vertebrobasilar system. Which of the following is the most likely underlying condition?",
-    "choices": [
-        "Atherosclerosis of penetrating cerebral arteries",
-        "Endocarditis of the tricuspid valve",
-        "Patent foramen ovale",
-        "Pulmonary thromboembolism",
-        "Trousseau syndrome"
-    ],
-    "correctAnswer": 2,
-    "explanation": "This patient likely had a paradoxical embolism due to a patent foramen ovale (PFO), allowing a DVT-derived thrombus to bypass the lungs and embolize to the brain. PFOs are present in ~25% of adults and become clinically significant in cases of right-to-left shunting (e.g., transiently during Valsalva)."
-},
-{
-    "question": "A 37-year-old woman with a diagnosed pulmonary embolism presents with worsening dyspnea and pleuritic chest pain. Which of the following physical exam findings would be the most specific indicator of pulmonary arterial hypertension in this patient?",
-    "choices": [
-        "Increased jugular venous pressure",
-        "P2 louder than A2",
-        "Peripheral edema",
-        "Presence of an S3",
-        "Pulmonary crackles"
+        "Afterload",
+        "Inotropy",
+        "Preload",
+        "Stiffness",
+        "Stroke volume"
     ],
     "correctAnswer": 1,
-    "explanation": "A loud P2 (accentuated pulmonic component of S2) is a hallmark of pulmonary hypertension. It results from increased pulmonary artery pressure, which causes early closure of the pulmonary valve. Other signs include right ventricular heave and jugular venous distension (JVD)."
+    "explanation": "The correct answer is inotropy (B). The ESPVR is the upper boundary line of the pressure-volume loop. It represents the pressure that can be generated for a given volume in the ventricle. This is also known as the Starling relationship. In chronic heart failure, the slope of this line is decreased, because at a given volume the heart generates less force. Preload (C) is the amount of volume in the ventricle just before systole, and it is shown by the intersection of the pressure-volume loop with the EDPVR curve. Afterload (A) is a measure of the pressure the ventricle is pumping against and is measured as the point of intersection of the pressure-volume loop with the ESPVR curve. Ventricular stiffness (D) is a measure of the ventricle’s ability to relax or fill with blood and is represented by the EDPVR curve. Stroke volume (E) is the amount of blood ejected from the ventricle with each contraction, is measured as EDV – ESV, and is also measured as the width of the pressure-volume loop."
+},
+    {
+        "question": "A 30-year-old male presents with a deep neck infection that has spread into his mediastinum. The infection most likely traversed which of the following anatomical spaces that is bound anteriorly by the buccopharyngeal fascia and posteriorly by the alar fascia?",
+        "choices": [
+            "Pretracheal space",
+            "Prevertebral space",
+            "Carotid space",
+            "Retropharyngeal space",
+            "Parapharyngeal space"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The retropharyngeal space is known as the 'danger space' because it provides a potential pathway for infections to spread from the neck into the thorax. It is bounded anteriorly by the buccopharyngeal fascia and posteriorly by the alar fascia."
+    },
+    {
+        "question": "During a neck dissection, a surgeon must be cautious not to damage the nerve supplying the posterior belly of the digastric muscle. This nerve also innervates another muscle which is connected to the hyoid bone via the intermediate tendon. What is this muscle?",
+        "choices": [
+            "Mylohyoid",
+            "Stylohyoid",
+            "Geniohyoid",
+            "Thyrohyoid",
+            "Omohyoid"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The facial nerve (CN VII) innervates the posterior belly of the digastric muscle as well as the stylohyoid muscle, both of which are associated with the intermediate tendon connected to the hyoid bone."
+    },
+    {
+        "question": "During a carotid endarterectomy, a surgeon is at risk of damaging a nerve that loops under the right subclavian artery before ascending in the neck. This nerve is responsible for innervating all intrinsic muscles of the larynx except one. Which muscle is NOT innervated by this nerve?",
+        "choices": [
+            "Thyroarytenoid",
+            "Posterior cricoarytenoid",
+            "Cricothyroid",
+            "Lateral cricoarytenoid",
+            "Transverse arytenoid"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The recurrent laryngeal nerve innervates all intrinsic muscles of the larynx except the cricothyroid muscle, which is innervated by the external branch of the superior laryngeal nerve."
+    },
+    {
+        "question": "A patient presents with numbness and tingling in her right arm, particularly when raising it above her head. The physician suspects compression of neurovascular structures in a space bounded by the anterior scalene muscle anteriorly and the middle scalene muscle posteriorly. Which syndrome is associated with these symptoms?",
+        "choices": [
+            "Carpal tunnel syndrome",
+            "Thoracic outlet syndrome",
+            "Raynaud’s phenomenon",
+            "Cervical radiculopathy",
+            "Brachial plexus injury"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Thoracic outlet syndrome involves compression of the brachial plexus or subclavian vessels in the interscalene triangle, which is bounded by the anterior and middle scalene muscles."
+    },
+    {
+        "question": "A patient with a neck tumor undergoes surgery, and post-operatively exhibits ptosis, miosis, and anhidrosis on the left side of his face. These symptoms suggest damage to which of the following structures?",
+        "choices": [
+            "Left vagus nerve",
+            "Left phrenic nerve",
+            "Left cervical sympathetic trunk",
+            "Left recurrent laryngeal nerve",
+            "Left spinal accessory nerve"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The symptoms of ptosis, miosis, and anhidrosis constitute Horner's syndrome, which results from damage to the sympathetic trunk in the neck."
+    },
+    {
+        "question": "A patient with heart failure is being treated with diuretics to manage symptoms. Which of the following best explains the primary reason for using diuretics in this setting?",
+        "choices": [
+            "Increase myocardial oxygen demand",
+            "Decrease cardiac contractility",
+            "Increase venous return",
+            "Reduce preload and ventricular filling pressures",
+            "Increase afterload"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Diuretics are used in heart failure primarily to reduce preload and ventricular filling pressures, which helps to alleviate symptoms of congestion and improve cardiac efficiency."
+    },
+    {
+        "question": "A patient with worsening heart failure is prescribed a beta-blocker. Which of the following is the most likely rationale for this intervention?",
+        "choices": [
+            "To increase heart rate and improve cardiac output",
+            "To reduce heart rate, decrease myocardial oxygen consumption, and improve ventricular filling",
+            "To increase renal perfusion and decrease renin release",
+            "To directly increase venous return to the heart",
+            "To induce positive inotropy and increase stroke volume"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Beta-blockers are prescribed in heart failure to reduce heart rate, which decreases myocardial oxygen consumption and improves ventricular filling time, thereby enhancing cardiac efficiency and stability."
+    },
+    {
+        "question": "In the management of heart failure, blocking the renin-angiotensin system (RAS) with ACE inhibitors or ARBs is a common approach. What is the primary benefit of this strategy?",
+        "choices": [
+            "Immediate reduction of blood pressure",
+            "Prevention of myocardial infarction",
+            "Reduction of afterload and preload through vasodilation",
+            "Direct increase of cardiac contractility",
+            "Increase of renal blood flow and diuresis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Blocking the RAS in heart failure patients reduces afterload and preload through systemic vasodilation, which helps to lower the stress on the heart and improves cardiac output over time."
+    },
+    {
+        "question": "Which treatment strategy for heart failure focuses on reducing both preload and afterload to improve cardiac function?",
+        "choices": [
+            "Use of digoxin to increase cardiac contractility",
+            "Administration of high-dose diuretics",
+            "Use of combined hydralazine and isosorbide dinitrate",
+            "Implantation of a biventricular pacemaker",
+            "High intensity interval training"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Using a combination of hydralazine and isosorbide dinitrate in heart failure management targets both preload and afterload reduction, thereby improving ventricular function and overall cardiac output."
+    },
+    {
+        "question": "The use of vasodilators in heart failure management primarily helps to:",
+        "choices": [
+            "Increase preload to enhance the Frank-Starling mechanism",
+            "Decrease myocardial oxygen demand by reducing preload and afterload",
+            "Increase heart rate to improve cardiac output",
+            "Stimulate renal sodium and water retention",
+            "Directly increase the contractility of cardiac muscle"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Vasodilators in heart failure management decrease both preload and afterload, which lowers myocardial oxygen demand and enhances overall cardiac function without increasing the heart's workload."
+    },
+    {
+        "question": "A 55-year-old male with heart failure with preserved ejection fraction (HFpEF) is being considered for medication management. Which of the following medications is specifically indicated for HFpEF due to its role in reducing glucose reabsorption in renal tubules?",
+        "choices": [
+            "Digoxin",
+            "Metoprolol succinate",
+            "Carvedilol",
+            "SGLT2 inhibitors",
+            "ACE inhibitors"
+        ],
+        "correctAnswer": 3,
+        "explanation": "SGLT2 inhibitors are recommended for patients with HFpEF as they reduce glucose reabsorption in renal tubules, which can help manage heart failure symptoms and potentially improve outcomes."
+    },
+    {
+        "question": "Which of the following best describes the primary goal of acute heart failure treatment compared to long-term management using the 'cardioprotective quad therapy'?",
+        "choices": [
+            "Immediate relief of symptoms versus reversal of cardiac remodeling",
+            "Immediate cardiac remodeling versus long-term symptom management",
+            "Reversal of cardiac remodeling versus prevention of acute decompensation",
+            "Long-term improvement of ejection fraction versus immediate symptom relief"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The primary goal of acute heart failure treatment is the immediate relief of symptoms, whereas long-term management focuses on cardioprotective strategies like the 'quad therapy' to prevent and potentially reverse cardiac remodeling."
+    },
+    {
+        "question": "A patient with heart failure is being educated about the importance of continued medication adherence even after symptom improvement. This is due to the nature of heart failure staging. If a patient is initially categorized as Stage C heart failure and symptoms improve with treatment, what is the appropriate subsequent management approach?",
+        "choices": [
+            "Discontinue medications as the patient has returned to Stage A",
+            "Reduce medications to minimal maintenance doses",
+            "Continue full therapeutic dosages as the patient remains Stage C",
+            "Progress to Stage D treatments as a preventative measure"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Patients with Stage C heart failure who experience symptom improvement with treatment remain in Stage C and should continue with full therapeutic dosages of medications to manage the condition and prevent relapse or progression."
+    },
+    {
+        "question": "In heart failure management, which beta-blockers are specifically indicated for the treatment of heart failure with reduced ejection fraction (HFrEF)?",
+        "choices": [
+            "Atenolol and Pindolol",
+            "Bisoprolol, Metoprolol succinate, and Carvedilol",
+            "Propranolol and Timolol",
+            "Sotalol and Labetalol"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bisoprolol, Metoprolol succinate, and Carvedilol are specifically indicated for the treatment of heart failure with reduced ejection fraction (HFrEF) due to their proven benefits in improving survival and reducing hospitalizations in these patients."
+    },
+    {
+        "question": "A patient suspected of heart failure presents with dyspnea, fatigue, and elevated B-type natriuretic peptide (BNP) levels. Given the high specificity and sensitivity of BNP in heart failure diagnosis, what are the expected values to confirm heart failure?",
+        "choices": [
+            "BNP < 100 pg/mL",
+            "BNP 100-500 pg/mL",
+            "BNP > 500 pg/mL",
+            "BNP > 1000 pg/mL"
+        ],
+        "correctAnswer": 2,
+        "explanation": "A BNP level greater than 500 pg/mL is highly indicative of heart failure, given the peptide's 92% specificity and 98% sensitivity for diagnosing the condition, particularly in confirming congestive heart failure."
+    },
+    {
+        "question": "A 68-year-old patient with heart failure with preserved ejection fraction (HFpEF) is evaluated for additional therapeutic options. Which of the following medications, known primarily as a glucose-lowering agent, has been recently approved for use in HFpEF due to its effects on cardiac and renal function?",
+        "choices": [
+            "Metoprolol",
+            "Carvedilol",
+            "Spironolactone",
+            "Dapagliflozin",
+            "Digoxin"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Dapagliflozin, an SGLT2 inhibitor, has been approved for use in HFpEF due to its benefits beyond glucose-lowering, including diuresis and reduction in heart failure hospitalizations."
+    },
+    {
+        "question": "A patient with acute decompensated heart failure is being transitioned to long-term management. Which of the following combinations represents the 'cardioprotective quad therapy' that maximizes long-term survival and cardiac function?",
+        "choices": [
+            "ACE inhibitors, beta-blockers, aldosterone antagonists, SGLT2 inhibitors",
+            "Loop diuretics, thiazides, potassium-sparing diuretics, beta-blockers",
+            "Digoxin, amiodarone, diuretics, ACE inhibitors",
+            "Beta-blockers, calcium channel blockers, ACE inhibitors, ARBs",
+            "ARNIs, beta-blockers, diuretics, digitalis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The 'cardioprotective quad therapy' for heart failure includes ACE inhibitors, beta-blockers, aldosterone antagonists, and SGLT2 inhibitors, which work synergistically to improve survival and reduce hospitalizations."
+    },
+    {
+        "question": "Considering the mechanism of action of potassium-sparing diuretics, which drug would be most appropriate for a patient with heart failure and concurrent liver cirrhosis presenting with ascites?",
+        "choices": [
+            "Furosemide",
+            "Spironolactone",
+            "Hydrochlorothiazide",
+            "Acetazolamide",
+            "Mannitol"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Spironolactone, an aldosterone antagonist, is particularly effective in patients with heart failure and liver cirrhosis due to its ability to counteract hyperaldosteronism commonly present in these conditions, making it suitable for managing ascites."
+    },
+    {
+        "question": "A patient on treatment for heart failure presents with an increased BNP level and worsening dyspnea. Which of the following is the most likely cause of these findings?",
+        "choices": [
+            "Acute myocardial infarction",
+            "Worsening heart failure",
+            "Chronic obstructive pulmonary disease exacerbation",
+            "Renal failure",
+            "Hepatic congestion"
+        ],
+        "correctAnswer": 1,
+        "explanation": "An increased BNP level in conjunction with worsening dyspnea is strongly indicative of worsening heart failure, reflecting increased ventricular pressure and stress."
+    },
+    {
+        "question": "In a patient with heart failure, urinalysis shows increased sodium and decreased potassium levels after initiation of a new medication. Which class of diuretic was most likely started?",
+        "choices": [
+            "Loop diuretics",
+            "Thiazides",
+            "Potassium-sparing diuretics",
+            "Carbonic anhydrase inhibitors",
+            "Osmotic diuretics"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Loop diuretics are likely responsible for the observed changes in urine composition, as they increase sodium excretion and can lead to decreased potassium levels due to their mechanism of action on the Na-K-2Cl co-transporter."
+    },
+    {
+        "question": "A 72-year-old male with suspected heart failure presents with dyspnea and ankle edema. Given its high negative predictive value and specificity, which biomarker is most reliable for confirming the diagnosis of congestive heart failure?",
+        "choices": [
+            "C-reactive protein",
+            "Serum creatinine",
+            "B-type natriuretic peptide (BNP)",
+            "Liver function tests",
+            "Serum electrolytes"
+        ],
+        "correctAnswer": 2,
+        "explanation": "B-type natriuretic peptide (BNP) is the most reliable biomarker for diagnosing congestive heart failure due to its high negative predictive value, 92% specificity, and 98% sensitivity."
+    },
+    {
+        "question": "In a clinical trial studying the effects of heart failure medications, one group of patients showed significant improvement in symptoms and a reduction in heart failure hospitalizations compared to those on ACE inhibitors or ARBs alone. Which medication, a combination of a neprilysin inhibitor and an ARB, is responsible for these outcomes?",
+        "choices": [
+            "Losartan",
+            "Metoprolol",
+            "Entresto (Sacubitril/Valsartan)",
+            "Spironolactone",
+            "Digoxin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Entresto (Sacubitril/Valsartan), an ARNI (angiotensin receptor-neprilysin inhibitor), has been shown to significantly improve symptoms and reduce hospitalizations in heart failure patients compared to traditional therapy with ACE inhibitors or ARBs."
+    },
+    {
+        "question": "A patient with chronic heart failure and a history of NSAID use reports increased urination and reduced edema after a change in medication. This diuretic class also stimulates prostaglandin release, which may enhance its diuretic and natriuretic effects. Which class of diuretic is likely being used?",
+        "choices": [
+            "Loop diuretics",
+            "Thiazide diuretics",
+            "Potassium-sparing diuretics",
+            "Carbonic anhydrase inhibitors",
+            "Osmotic diuretics"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Loop diuretics not only increase urine production but also stimulate prostaglandin release, which can lead to enhanced diuretic and natriuretic effects, particularly evident in patients taking NSAIDs."
+    },
+    {
+        "question": "A patient with heart failure and liver cirrhosis develops worsening ascites. Considering the pathophysiology of cirrhosis and its impact on fluid balance, which diuretic is considered the treatment of choice for managing fluid retention in this patient?",
+        "choices": [
+            "Furosemide",
+            "Hydrochlorothiazide",
+            "Spironolactone",
+            "Acetazolamide",
+            "Mannitol"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Spironolactone, a potassium-sparing diuretic that acts as an aldosterone antagonist, is particularly effective in patients with liver cirrhosis and ascites due to its ability to manage hyperaldosteronism and fluid retention without exacerbating potassium imbalances."
+    },
+{
+    "question": "A 72-year-old man presents to his physician with shortness of breath. He is unable to walk more than a block, and over the past month his chronic leg swelling has worsened. The patient has coronary artery disease with two previous myocardial infarctions and chronic obstructive pulmonary disease requiring 2 L of continuous home oxygen. The physician measures a hormone level to help distinguish a cardiac from a pulmonary cause of the patient’s symptoms. Which of the following best characterizes the hormone that was most likely measured?",
+    "choices": [
+        "Causes hypertension when secreted",
+        "Causes renal sodium retention",
+        "Is primarily secreted in response to hypovolemia",
+        "It acts to decrease venous capacitance and increase preload",
+        "It is mainly secreted by the cardiac atria",
+        "Serum level are elevated in both systolic and nonsystolic heart failure"
+    ],
+    "correctAnswer": 5,
+    "explanation": "Physicians use B-type (brain) natriuretic peptide (BNP) levels in the diagnosis and management of heart failure (HF). The ventricles release this hormone in response to an overload in either volume or pressure, both of which are seen in all types of HF. BNP levels rise with systolic and diastolic heart failure and cannot be used to differentiate between the two types, although levels tend to be higher in systolic HF. The test is sensitive but not specific, so it is best used to rule out other causes of dyspnea, e.g., lung disease. Heart failure must be confirmed by more specific testing, e.g., echocardiography. Natriuretic peptides normally function to induce renal salt and secondary water diuresis, opposing aldosterone."
 },
 {
-    "question": "A 36-year-old woman presents with acute-onset dyspnea and pleuritic chest pain after a recent flight from China. She is tachycardic, tachypneic, and has an oxygen saturation of 89% on room air. A chest X-ray is normal. What is the most appropriate next step?",
+    "question": "A 75-year-old man comes to the clinic with two weeks of worsening dyspnea. He has a history of hypertension and coronary artery disease, treated with stenting 4 years ago. He has a 55-pack-year history of smoking. His oxygen saturation is 92% on room air and there is prominent jugular venous distention. Auscultation reveals bilateral crackles and normal heart sounds. The liver is palpated 2 cm below the costal margin and there is 2+ pitting edema in the extremities. He is started on a first-line medication that reduces ventricular remodeling and fibrosis. Which of the following describes the mechanism of action of the most likely prescribed drug?",
     "choices": [
-        "Measure serum D-dimer",
-        "Obtain lower extremity Doppler ultrasound",
-        "Perform a CT pulmonary angiography",
-        "Administer empiric thrombolysis",
-        "Perform a ventilation-perfusion (V/Q) scan"
+        "Inhibition of 3-hydroxy-3-methyl-glutaryl-CoA reductase",
+        "Inhibition of L-type calcium channels",
+        "Inhibition of angiotensin-converting enzyme",
+        "Inhibition of factor Xa",
+        "Non-selective inhibition of cyclooxygenase"
     ],
     "correctAnswer": 2,
-    "explanation": "This patient has a high pretest probability for pulmonary embolism (PE) based on the Wells criteria (recent travel, tachycardia, hypoxemia, pleuritic chest pain). CT pulmonary angiography is the diagnostic test of choice for PE in hemodynamically stable patients."
+    "explanation": "Impaired cardiac function in CHF causes the backup of blood, leading to low oxygen saturation, inspiratory crackles due to pulmonary edema, jugular venous distention, and pitting ankle edema. Dysfunction in right heart contractility leads to venous congestion and thus hepatomegaly. Complications of CHF include hepatic injury due to prolonged central venous hypertension and cardiac remodeling due to inadequate blood flow to the kidney resulting in renin secretion and the production of angiotensin II and aldosterone. ACE inhibitors inhibit conversion of angiotensin I to angiotensin II, reducing aldosterone synthesis, and ultimately reducing salt and water retention. This leads to a reduction in cardiac preload, reversing myocardial hypertrophy and decreasing cardiac remodeling. Peripheral vascular resistance is reduced due to the reduction in angiotensin II levels, reducing cardiac afterload."
 },
 {
-    "question": "A 48-year-old woman is hospitalized after undergoing total knee replacement surgery. She is noted to have new-onset tachycardia and dyspnea. Which of the following factors most likely contributed to her condition?",
+    "question": "A six-year-old child, whose medical history includes a rather difficult birth, has a permanently tilted head posture, with the right ear near the right shoulder and the face turned upward and to the left. Which of the following muscles was very likely damaged during birth?",
     "choices": [
-        "Increased vascular tone",
-        "Increased platelet function",
-        "Endothelial damage, venous stasis, and hypercoagulability",
-        "Aortic atherosclerosis",
-        "Increased fibrinolysis"
+        "Anterior scalene",
+        "Omohyoid",
+        "Sternocleidomastoid",
+        "Trapezius",
+        "Platysma"
     ],
     "correctAnswer": 2,
-    "explanation": "This patient has Virchow’s Triad, which consists of endothelial damage (surgery), venous stasis (immobility), and hypercoagulability (postoperative state, possible DVT/PE). These factors dramatically increase the risk of venous thromboembolism."
+    "explanation": "If the sternocleidomastoid is damaged at birth and becomes shortened, a patient may have muscular torticollis. The neck will appear twisted and the chin elevated because the sternocleidomastoid muscle will be too short on one side. This patient has an injured right sternocleidomastoid, since his head is turned down on the right side where the sternocleidomastoid is too short. Patients may also have spasmodic torticollis, where the neck is twisted and elevated due to a temporary spasm of the sternocleidomastoid muscle. None of the other muscles listed would cause similar symptoms if they were injured."
 },
+    {
+        "question": "In performing a thyroidectomy, caution should be exercised when ligating (tying) the inferior thyroid artery, as it lies in a very close relationship to which nerve?",
+        "choices": [
+            "Ansa cervicalis",
+            "Hypoglossal",
+            "Phrenic",
+            "Recurrent laryngeal",
+            "Vagus"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The recurrent laryngeal nerve crosses the inferior thyroid artery near the lower lobe of the thyroid. This means that the recurrent laryngeal nerve would be at risk in any surgery involving the inferior thyroid artery or the inferior poles of the thyroid. The recurrent laryngeal nerve becomes the inferior laryngeal nerve at the inferior border of cricopharyngeus, and this nerve continues on to innervate all the muscles of the larynx with the exception of cricothyroid. So, you really need to take care to protect the recurrent laryngeal nerve--injuring this structure could lead to hoarseness, permanent loss of voice, or even death."
+    },
+    {
+        "question": "A 55-year-old woman has difficulty swallowing and frequently aspirates fluids while drinking. She is diagnosed as having a skull base tumor occupying the space behind the jugular foramen. Involvement of which structure is responsible for the findings?",
+        "choices": [
+            "Ansa cervicalis",
+            "Cervical sympathetic trunk",
+            "Accessory nerve",
+            "Hypoglossal nerve",
+            "Vagus"
+        ],
+        "correctAnswer": 4,
+        "explanation": "The vagus nerve, which exits the skull through the jugular foramen, is the motor nerve to the pharynx. So, it allows for swallowing. This patient's symptoms and the location of the tumor clearly point to an injury of the vagus nerve. The accessory nerve also exits the skull through the jugular foramen--it could be injured from this tumor, but the symptoms are not suggestive of an accessory nerve injury. If her accessory nerve was damaged, the patient's sternocleidomastoid and trapezius would be denervated, which means the acromion of her shoulder would sag. The other nerve that comes through the jugular foramen is the glossopharyngeal nerve--this nerve might also be damaged by the tumor."
+    },
+    {
+        "question": "A 58-year-old man with suspected coronary artery disease undergoes an exercise stress test without imaging. Which of the following is a potential disadvantage of using this method compared to other forms of stress testing?",
+        "choices": [
+            "It provides direct visualization of coronary arteries.",
+            "It has a higher sensitivity and specificity than nuclear imaging.",
+            "It lacks the ability to quantify or localize ischemia.",
+            "It requires a high radiation dose.",
+            "It is unable to assess functional capacity."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Exercise ECG stress tests without imaging are limited by their inability to localize or quantify the extent of ischemia compared to imaging modalities like nuclear perfusion imaging or stress echocardiography. This can be a significant drawback in accurately diagnosing the severity and location of coronary artery disease."
+    },
+    {
+        "question": "Which diagnostic method is described as having excellent sensitivity and specificity for detecting coronary artery disease and can assess the extent and location of ischemia?",
+        "choices": [
+            "Exercise ECG stress test",
+            "Nuclear perfusion imaging",
+            "Coronary calcium scoring",
+            "CT angiography",
+            "Cardiac catheterization"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Nuclear perfusion imaging is known for its good sensitivity and specificity, approximately 85%, and can also provide information about the extent and location of ischemia, making it highly effective for evaluating coronary artery disease."
+    },
+    {
+        "question": "A patient is evaluated for cardiovascular risk using a non-invasive test that quantifies calcified plaque in coronary arteries. Which test provides this assessment, and what is a significant limitation?",
+        "choices": [
+            "Coronary calcium scoring, limited by high radiation dose",
+            "Coronary calcium scoring, very low specificity especially in patients over 60 years old",
+            "CT angiography, inability to provide functional information",
+            "Nuclear stress test, time-consuming and expensive",
+            "Exercise ECG, poor sensitivity without imaging"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Coronary calcium scoring provides a quantifiable measure of calcified plaque in coronary arteries and is readily available and inexpensive. However, it has very low specificity, particularly in older patients, and also exposes patients to radiation."
+    },
+    {
+        "question": "A patient presents with chest pain described as pressure worsening with exertion and relieved by rest. Which type of angina is most consistent with these symptoms and what is the typical management strategy?",
+        "choices": [
+            "Stable angina, managed primarily with lifestyle changes and medical therapy",
+            "Unstable angina, immediate hospitalization and invasive procedures",
+            "NSTEMI, treated with antiplatelets and risk stratification",
+            "STEMI, immediate reperfusion therapy",
+            "Prinzmetal's angina, treated primarily with calcium channel blockers"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Stable angina typically presents with symptoms that are predictable, such as chest pain that occurs with exertion and is relieved by rest. The primary management involves lifestyle modifications and medical therapy including beta-blockers, nitrates, and antiplatelet drugs."
+    },
+    {
+        "question": "A 63-year-old patient with stable angina is prescribed nitroglycerin. Which of the following best describes the primary mechanism of action of nitroglycerin in treating angina?",
+        "choices": [
+            "Decreases myocardial oxygen demand by increasing heart rate",
+            "Causes coronary vasodilation and reduces preload by dilating veins",
+            "Inhibits late sodium currents in the myocardial cells",
+            "Blocks calcium channels in vascular smooth muscle",
+            "Increases venous return and intracardiac volume"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Nitroglycerin primarily works by causing vasodilation of the veins which decreases venous return (preload) and intracardiac volume, thereby reducing myocardial oxygen demand. Additionally, it causes dilation of the coronary arteries which can relieve coronary vasospasm, contributing further to its antianginal effects."
+    },
+    {
+        "question": "Which of the following adverse effects can result from the use of calcium channel blockers, particularly due to their effect on calcium channels in the gastrointestinal tract?",
+        "choices": [
+            "Orthostatic hypotension",
+            "Gastrointestinal disturbances such as constipation",
+            "Increased risk of myocardial infarction",
+            "Reflex tachycardia",
+            "Enhanced renal clearance of drugs"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Calcium channel blockers, especially verapamil, can cause gastrointestinal disturbances such as constipation. This effect is due to the inhibition of calcium channels in the smooth muscle of the gastrointestinal tract, leading to reduced motility."
+    },
+    {
+        "question": "A patient with chronic stable angina is started on ranolazine. Which of the following is a key benefit of using ranolazine compared to other antianginal medications?",
+        "choices": [
+            "It significantly reduces systolic blood pressure",
+            "It has a pronounced effect on reducing heart rate",
+            "It does not affect heart rate or blood pressure and may decrease atrial fibrillation and HbA1c",
+            "It increases the force of cardiac contraction",
+            "It provides immediate relief of angina symptoms"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ranolazine is unique among antianginal medications in that it does not significantly affect heart rate or blood pressure. It works by inhibiting the late phase of sodium influx which reduces intracellular calcium and decreases myocardial stiffness. This property makes it particularly useful in patients where other medications might be contraindicated due to their effects on hemodynamics. Additionally, ranolazine may decrease the incidence of atrial fibrillation and lower HbA1c levels, offering further benefits beyond its antianginal effects."
+    },
+    {
+        "question": "A 62-year-old patient with chronic stable angina is treated with nitroglycerin. The primary action of nitroglycerin at the cellular level involves modulation of which enzyme that directly affects myosin light chain kinase activity?",
+        "choices": [
+            "Phospholipase C",
+            "Adenylate cyclase",
+            "Guanylate cyclase",
+            "Protein kinase C",
+            "Calcineurin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Nitroglycerin acts primarily by being converted to nitric oxide (NO) which then stimulates guanylate cyclase. This enzyme catalyzes the conversion of GTP to cyclic GMP (cGMP), which in turn leads to the dephosphorylation and inactivation of myosin light chain kinase. This reduction in kinase activity decreases calcium ion concentration in the smooth muscle cells, leading to relaxation and vasodilation, which is critical in the management of angina by reducing myocardial oxygen demand."
+    },
+    {
+        "question": "What is the potential risk when a patient on nitroglycerin for angina is prescribed a phosphodiesterase type 5 (PDE5) inhibitor?",
+        "choices": [
+            "Increased risk of developing tolerance to nitroglycerin",
+            "Reduction in the effectiveness of nitroglycerin",
+            "Life-threatening hypotension",
+            "Increased risk of myocardial infarction",
+            "Decrease in nitroglycerin metabolism"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The combination of nitroglycerin and a phosphodiesterase type 5 (PDE5) inhibitor, such as sildenafil, can lead to severe and potentially life-threatening hypotension. This occurs because both agents act synergistically to increase cyclic GMP levels in vascular smooth muscle cells, leading to profound vasodilation. PDE5 inhibitors block the degradation of cGMP, thereby enhancing and prolonging the effects of nitroglycerin and dramatically lowering blood pressure."
+    },
+    {
+        "question": "Which of the following factors would decrease the likelihood of acute coronary syndrome (ACS) in a patient presenting with chest pain?",
+        "choices": [
+            "Radiation of pain to the right shoulder",
+            "Pain relieved by nitroglycerin",
+            "Sharp or stabbing pain quality",
+            "History of similar pain associated with exertion",
+            "Diaphoresis and nausea accompanying the pain"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sharp or stabbing pain is less likely to be associated with acute coronary syndrome and is more indicative of musculoskeletal causes. Characteristics such as pain associated with exertion, radiation to typical areas like the left arm, and accompanying symptoms like diaphoresis increase the likelihood of ACS."
+    },
+    {
+        "question": "Which of the following is considered an absolute contraindication for the administration of fibrinolytic therapy in a patient with acute ST-elevation myocardial infarction (STEMI)?",
+        "choices": [
+            "Blood pressure of 180/110 mmHg on presentation",
+            "History of prior ischemic stroke more than one year ago",
+            "Known structural cerebral vascular lesion",
+            "Transient ischemic attack (TIA) six months prior",
+            "Current use of anticoagulant therapy with INR 2.0"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Known structural cerebral vascular lesions are an absolute contraindication for fibrinolytic therapy due to the high risk of bleeding, including intracranial hemorrhage. Other factors, such as controlled hypertension or a distant history of stroke, may pose relative risks but are not absolute contraindications."
+    },
+    {
+        "question": "A 50-year-old male with NSTEMI has a TIMI risk score of 4. Based on this score, what is the appropriate management strategy?",
+        "choices": [
+            "Immediate discharge with outpatient follow-up",
+            "Conservative management with medical therapy alone",
+            "Invasive strategy with consideration for coronary angiography",
+            "Observation in the emergency room with serial ECGs",
+            "Initiation of fibrinolytic therapy"
+        ],
+        "correctAnswer": 2,
+        "explanation": "A TIMI risk score of 4 places the patient at intermediate to high risk for adverse cardiac events. An invasive strategy, which typically includes coronary angiography, is recommended for patients with intermediate to high TIMI scores to identify and treat significant coronary artery blockages."
+    },
+    {
+        "question": "What is the mechanism of action of fondaparinux and why is it preferred in the early hospital care of acute coronary syndrome?",
+        "choices": [
+            "It inhibits thrombin formation indirectly by potentiating antithrombin",
+            "It acts directly on platelets to inhibit aggregation",
+            "It is a direct thrombin inhibitor that acts independently of antithrombin",
+            "It blocks vitamin K-dependent clotting factors",
+            "It converts plasminogen to plasmin to degrade fibrin clots"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Fondaparinux acts by potentiating the activity of antithrombin, which in turn inhibits factor Xa, leading to an indirect inhibition of thrombin formation. It is preferred in the early management of ACS due to its consistent and predictable anticoagulant effect, low risk of thrombocytopenia, and absence of a requirement for laboratory monitoring."
+    },
+    {
+        "question": "In the management of STEMI, when is rapid reperfusion with primary percutaneous coronary intervention (PCI) preferred over thrombolytic therapy?",
+        "choices": [
+            "When the patient presents within 2 hours of symptom onset",
+            "If the patient is at high risk for bleeding",
+            "When thrombolytics are contraindicated",
+            "All of the above",
+            "None of the above"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Rapid reperfusion with primary PCI is generally preferred over thrombolytic therapy in STEMI management when the patient presents within the early hours of symptom onset, is at high risk for bleeding, or when thrombolytics are contraindicated. PCI is more effective in opening blocked arteries and has a lower risk of intracranial hemorrhage compared to thrombolytics."
+    },
 {
-    "question": "A 40-year-old man with a history of DVT is being discharged on anticoagulation therapy. Which of the following oral medications requires initial bridging with heparin or LMWH?",
+    "question": "A 68-year-old male with a history of hypertension and type 2 diabetes presents to the emergency department with acute chest pain and diaphoresis. An electrocardiogram confirms acute ST-elevation myocardial infarction (STEMI). His blood pressure on admission is 110/70 mmHg, and he has a heart rate of 58 bpm. Given his presentation, why is the administration of intravenous beta-blockers contraindicated in this patient during early hospital care for ACS?",
     "choices": [
-        "Rivaroxaban",
-        "Apixaban",
-        "Dabigatran",
-        "Warfarin",
-        "Edoxaban"
+        "Beta-blockers could further reduce his heart rate and potentiate bradycardia.",
+        "They can increase the risk of ventricular tachycardia.",
+        "Intravenous beta-blockers may lead to increased blood pressure.",
+        "Beta-blockers are associated with a decreased risk of myocardial rupture.",
+        "They prevent the absorption of oral antiplatelet agents."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intravenous beta-blockers are contraindicated in the early management of ACS, particularly in patients with risk factors such as low heart rate (bradycardia), hypotension, signs of heart failure, or high-degree atrioventricular block. These agents can exacerbate bradycardia, reduce myocardial contractility, and decrease atrial conductivity, potentially leading to cardiogenic shock, especially in the setting of acute myocardial infarction. Thus, the administration of beta-blockers could further reduce his heart rate and potentiate bradycardia, compromising cardiac output and worsening his clinical condition."
+},
+    {
+        "question": "A 67-year-old woman with diabetes, hypertension, and hyperlipidemia presents with stable ischemic heart disease and severe multi-vessel disease including a significant lesion in the proximal left anterior descending artery. Which revascularization strategy is recommended for this patient to improve survival?",
+        "choices": [
+            "Percutaneous coronary intervention (PCI) of all lesions in a staged approach",
+            "Hybrid PCI and coronary artery bypass grafting (CABG) with left internal mammary artery (LIMA) to the left anterior descending artery",
+            "Medical therapy escalation without revascularization",
+            "Three-vessel CABG",
+            "PCI with drug-eluting stents for all lesions"
+        ],
+        "correctAnswer": 3,
+        "explanation": "In diabetic patients with multi-vessel coronary artery disease, especially with significant proximal left anterior descending artery involvement, CABG is generally recommended over PCI. CABG has been shown to provide better long-term survival and reduced risk of major cardiovascular events in such patients, particularly in the presence of complex coronary anatomy as indicated by a high SYNTAX score."
+    },
+    {
+        "question": "In the management of stable angina with left ventricular dysfunction (LVEF <35%), revascularization is considered to improve survival. Which method of revascularization is preferred based on evidence from clinical trials such as STITCH?",
+        "choices": [
+            "PCI with bare-metal stents",
+            "CABG, especially if multi-vessel disease is present",
+            "Medical therapy alone",
+            "PCI with drug-eluting stents",
+            "Transmyocardial laser revascularization"
+        ],
+        "correctAnswer": 1,
+        "explanation": "For patients with stable angina and significantly reduced left ventricular function (LVEF <35%), CABG is typically preferred over PCI. Evidence from trials like STITCH indicates that CABG can improve survival more effectively than PCI, particularly in patients with complex or severe multi-vessel disease."
+    },
+    {
+        "question": "What is the primary reason for the preference of CABG over PCI in diabetic patients with coronary artery disease as demonstrated in the FREEDOM trial?",
+        "choices": [
+            "CABG leads to better glycemic control post-operatively.",
+            "CABG is associated with lower long-term mortality and fewer major cardiovascular events in diabetics.",
+            "Diabetic patients are less likely to develop restenosis after CABG than after PCI.",
+            "PCI in diabetic patients is associated with higher rates of procedural complications.",
+            "CABG is less expensive than PCI for diabetic patients."
+        ],
+        "correctAnswer": 1,
+        "explanation": "The FREEDOM trial demonstrated that diabetic patients with multi-vessel coronary artery disease have better outcomes with CABG compared to PCI. Specifically, CABG is associated with lower rates of long-term mortality and major adverse cardiovascular events such as myocardial infarction and the need for repeat revascularization."
+    },
+    {
+        "question": "Which scoring system is utilized to guide the decision-making process between PCI and CABG in patients with coronary artery disease?",
+        "choices": [
+            "Framingham Risk Score",
+            "GRACE Risk Score",
+            "SYNTAX Score",
+            "TIMI Risk Score",
+            "CHA2DS2-VASc Score"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The SYNTAX score is a tool specifically designed to assist in the decision-making process between PCI and CABG for patients with coronary artery disease. It assesses the complexity of coronary artery lesions to predict the outcomes with either revascularization strategy, guiding treatment towards CABG in cases of higher complexity or towards PCI in cases of lower complexity."
+    },
+{
+    "question": "A 55-year-old male with acute myocardial infarction is being assessed for appropriate management strategies. Which of the following options best represents a Class I recommendation for the management of this patient?",
+    "choices": [
+        "Administering high-dose statins before revascularization",
+        "Immediate PCI regardless of symptom duration",
+        "Administration of IV beta-blockers in the presence of heart failure",
+        "Urgent coronary artery bypass grafting in a patient with left main coronary artery disease",
+        "Use of NSAIDs for chest pain management"
     ],
     "correctAnswer": 3,
-    "explanation": "Warfarin requires initial bridging with heparin or LMWH because it temporarily reduces protein C levels, creating a transient prothrombotic state. Direct oral anticoagulants (DOACs) (e.g., rivaroxaban, apixaban) do not require bridging."
+    "explanation": "Class I recommendations are treatments for which there is evidence and/or general agreement that the procedure or treatment is useful and effective. Urgent coronary artery bypass grafting (CABG) in patients with significant left main coronary artery disease is considered a Class I recommendation due to the high risk of major adverse cardiac events without revascularization. In contrast, Class II recommendations (like high-dose statins before revascularization) involve treatments for which there is conflicting evidence or a divergence of opinion about the usefulness or efficacy. Class III recommendations (such as the use of IV beta-blockers in the presence of heart failure or NSAIDs for chest pain) are treatments that are not recommended as they are found to be ineffective or potentially harmful."
 },
 {
-    "question": "A 62-year-old man presents with hypotension, tachycardia, and hypoxia. CT pulmonary angiography confirms a massive pulmonary embolism (PE). Which of the following is the most appropriate next step in management?",
+    "question": "A 60-year-old male recently suffered an acute myocardial infarction and is being evaluated for secondary prevention strategies. Which of the following options best represents a Class I recommendation for the management of this patient for secondary prevention?",
     "choices": [
-        "Initiate oral anticoagulation with warfarin",
-        "Administer low-molecular-weight heparin",
-        "Administer IV tissue plasminogen activator (tPA)",
-        "Perform an immediate embolectomy",
-        "Place an inferior vena cava (IVC) filter"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A massive PE is defined by hemodynamic instability (hypotension, shock). The treatment of choice is thrombolysis with tPA. Surgical embolectomy is reserved for cases where thrombolysis is contraindicated or ineffective."
-},
-{
-    "question": "A 68-year-old woman with multiple DVTs is found to have a contraindication to anticoagulation due to a recent hemorrhagic stroke. Which of the following is the most appropriate intervention?",
-    "choices": [
-        "Placement of an inferior vena cava (IVC) filter",
-        "Long-term aspirin therapy",
-        "Observation and repeat Doppler ultrasound",
-        "Initiation of warfarin at a reduced dose",
-        "Thrombectomy"
+        "Long-term therapy with high-intensity statins",
+        "Adding niacin to statin therapy to further lower LDL cholesterol",
+        "Use of antioxidant vitamin supplements to reduce oxidative stress",
+        "Routine use of hormone replacement therapy in post-menopausal women",
+        "Discontinuation of beta-blocker therapy within the first year following MI"
     ],
     "correctAnswer": 0,
-    "explanation": "IVC filters are indicated for patients with acute DVT/PE who cannot receive anticoagulation due to bleeding risk. They reduce the risk of pulmonary embolism by trapping emboli from the lower extremities."
+    "explanation": "Class I recommendations are based on strong evidence showing that the intervention is beneficial, useful, and effective. Long-term therapy with high-intensity statins is a Class I recommendation for secondary prevention following AMI, aimed at reducing the risk of further cardiovascular events by significantly lowering LDL cholesterol. Class II recommendations, such as adding niacin to statin therapy, may be considered based on individual factors but lack universal endorsement due to mixed evidence of benefit. Class III recommendations, including the use of antioxidant vitamin supplements, hormone replacement therapy in post-menopausal women, and discontinuation of beta-blockers within the first year after MI, are considered either not beneficial or potentially harmful in the secondary prevention of cardiovascular disease."
+},
+    {
+        "question": "A 65-year-old male with chronic heart failure is advised by his healthcare provider to engage in self-management practices. Which of the following is a primary reason for emphasizing self-management in this patient?",
+        "choices": [
+            "It reduces the dependency on healthcare providers.",
+            "It decreases the overall cost of healthcare services.",
+            "It helps to minimize hospital readmissions by improving medication adherence and lifestyle compliance.",
+            "It eliminates the need for medication in managing heart failure.",
+            "It provides a temporary improvement in heart failure symptoms."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Self-management in heart failure is crucial because it empowers patients to adhere to prescribed medical regimens and lifestyle modifications, which are key to preventing exacerbations of heart failure that often lead to hospital readmissions."
+    },
+    {
+        "question": "What is a significant barrier to effective self-management in patients with heart failure, and what strategy can best address this issue?",
+        "choices": [
+            "Complex medication regimens; using unit-dose packaging to simplify administration",
+            "Physical limitations; ceasing all forms of physical activity",
+            "High costs of medication; opting for less effective over-the-counter alternatives",
+            "Cognitive impairment; avoiding use of any memory aids to encourage mental activity",
+            "Lack of health literacy; employing teach-back methods to ensure understanding of health information"
+        ],
+        "correctAnswer": 4,
+        "explanation": "A significant barrier to effective self-management in heart failure is lack of health literacy. Employing teach-back methods where patients repeat the information back to the provider can ensure understanding and improve adherence to treatment and lifestyle recommendations."
+    },
+    {
+        "question": "Which of the following interventions is classified as a Class I recommendation for self-management in patients with heart failure?",
+        "choices": [
+            "Daily monitoring of weight and symptoms",
+            "Intermittent use of diuretics based on symptoms",
+            "Use of herbal supplements to improve cardiac output",
+            "Restriction of fluid intake to less than 1 liter per day",
+            "Complete cessation of all physical activities"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Class I recommendations are strongly advised because they are proven to be beneficial and effective. Daily monitoring of weight and symptoms in heart failure patients is a Class I recommendation as it helps in early detection of fluid retention and worsening heart failure, which can prompt timely medical interventions."
+    },
+    {
+        "question": "A heart failure patient struggles with medication adherence due to the complexity of the medication regimen. Which intervention is most likely to improve adherence?",
+        "choices": [
+            "Reducing the number of medications prescribed",
+            "Implementing a fixed-dose combination pill to reduce pill burden",
+            "Encouraging the patient to only take medication when symptomatic",
+            "Advising the patient to purchase medications in bulk to reduce pharmacy visits",
+            "Increasing the dosage of current medications to reduce the frequency of administration"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Implementing a fixed-dose combination pill can significantly reduce pill burden and simplify the medication regimen, thereby improving adherence in heart failure patients. This approach minimizes confusion and the possibility of missing doses, which are common with complex regimens."
+    },
+{
+    "question": "An 18-year-old man from Peru comes to a mission clinic because of fever, myalgias, and dyspnea on exertion for two weeks. Exam shows that his teeth are in poor repair and that he has the heart murmur of mitral and aortic regurgitation. Multiple blood cultures have yielded Haemophilus aphrophilus. He was most likely predisposed to this infection by which of the following?",
+    "choices": [
+        "Atrial septal defect",
+        "IV drug use",
+        "Mitral valve prolapse",
+        "Rheumatic heart disease",
+        "Tetralogy of Fallot"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The presence of poor dental health and heart murmurs indicative of mitral and aortic regurgitation, alongside a positive culture for Haemophilus aphrophilus, suggest an infective endocarditis potentially stemming from a predisposing factor such as rheumatic heart disease. Rheumatic heart disease often leads to valvular deformities which can predispose to bacterial colonization and subsequent infection."
 },
 {
-    "question": "A 68-year-old man with hypertension and stable angina is prescribed amlodipine. Which of the following best describes the primary mechanism of action of this drug?",
+    "question": "A 43-year-old man is found to have a mid-systolic click on examination of his heart for an insurance physical. An echocardiogram confirms the physician’s suspicion of mitral valve prolapse, but reveals no mitral regurgitation. Compared to the general population, which of the following is the best estimate of his risk for developing endocarditis in the future?",
     "choices": [
-        "Inhibition of renin release from the juxtaglomerular apparatus",
-        "Blockade of L-type calcium channels in vascular smooth muscle",
-        "Inhibition of the Na+/K+ ATPase in the distal nephron",
-        "Blockade of beta-1 receptors on cardiac myocytes",
-        "Antagonism of alpha-1 adrenergic receptors in vascular smooth muscle"
+        "2-fold",
+        "5-fold",
+        "10-fold",
+        "100-fold",
+        "No greater risk"
     ],
     "correctAnswer": 1,
-    "explanation": "Amlodipine is a dihydropyridine calcium channel blocker (CCB) that lowers blood pressure by blocking L-type calcium channels in vascular smooth muscle, leading to vasodilation. Unlike non-dihydropyridines (verapamil, diltiazem), amlodipine does not significantly affect AV node conduction."
+    "explanation": "Patients with mitral valve prolapse without regurgitation have a slightly increased risk of developing endocarditis compared to the general population. However, the risk is not as markedly elevated as in conditions with severe valve damage or regurgitation, hence a 5-fold increase is a reasonable estimate for the increased risk."
 },
 {
-    "question": "A 55-year-old woman with hypertension and type 2 diabetes presents for follow-up. Which of the following is the preferred first-line antihypertensive for this patient?",
+    "question": "A 67-year-old renal transplant patient is brought to the hospital by his wife for fever and chills for five days. Exam shows a febrile man in mild distress. The area of the dialysis access site is red and tender and a diastolic decrescendo murmur is heard at the aortic area. Concerned about a complicating staphylococcal endocarditis, the physician draws five blood cultures. If the patient has staphylococcal endocarditis how many of the five would be expected to yield the organism?",
     "choices": [
-        "Amlodipine",
-        "Hydrochlorothiazide",
-        "Lisinopril",
-        "Metoprolol",
-        "Prazosin"
-    ],
-    "correctAnswer": 2,
-    "explanation": "ACE inhibitors (e.g., lisinopril) are the preferred first-line antihypertensives in patients with diabetes because they provide renal protection by reducing intraglomerular pressure and slowing diabetic nephropathy progression. Thiazides and beta-blockers are alternatives but may increase glucose intolerance."
-},
-{
-    "question": "A 30-year-old woman at 28 weeks' gestation is diagnosed with new-onset hypertension (BP 156/98 mmHg). Which of the following is the most appropriate antihypertensive therapy?",
-    "choices": [
-        "Labetalol",
-        "Methyldopa",
-        "Losartan",
-        "Propranolol",
-        "Amlodipine"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Methyldopa was the first-line antihypertensive in pregnancy due to its safety profile but labetalol has been proven safer and better tolerated. ACE inhibitors (lisinopril) and ARBs (losartan) are contraindicated due to teratogenic effects. Beta-blockers (propranolol) and CCBs (amlodipine) are used in specific cases but are not first-line."
-},
-{
-    "question": "A 72-year-old woman with hypertension is started on hydralazine. Two weeks later, she develops palpitations and flushing. Which of the following mechanisms best explains her symptoms?",
-    "choices": [
-        "Increased nitric oxide production leading to arteriolar vasodilation",
-        "Reflex sympathetic activation due to decreased systemic vascular resistance",
-        "Increased sodium retention due to compensatory aldosterone release",
-        "Beta-adrenergic receptor desensitization",
-        "Direct stimulation of cardiac pacemaker cells"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hydralazine is a direct arteriolar vasodilator that reduces systemic vascular resistance, triggering reflex tachycardia through baroreceptor activation. This response can be blunted by co-administering a beta-blocker."
-},
-{
-    "question": "A 60-year-old man with hypertension is prescribed hydrochlorothiazide. Two weeks later, he develops muscle weakness and an ECG shows U waves. Which of the following mechanisms explains the cause of his symptoms?",
-    "choices": [
-        "Inhibition of Na+/K+ ATPase in cardiac myocytes",
-        "Increased sodium delivery to the collecting duct stimulating aldosterone-mediated potassium loss",
-        "Blockade of L-type calcium channels leading to potassium efflux",
-        "Direct inhibition of potassium channels in vascular smooth muscle",
-        "Upregulation of angiotensin II receptors in the adrenal cortex"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Thiazide diuretics increase sodium delivery to the distal nephron, enhancing aldosterone-mediated potassium excretion. This leads to hypokalemia, which can cause muscle weakness, U waves on ECG, and arrhythmias."
-},
-{
-    "question": "A 65-year-old woman with chronic kidney disease (CKD) is started on lisinopril. One week later, she develops hyperkalemia. What is the most likely explanation for this adverse effect?",
-    "choices": [
-        "Inhibition of the Na+/K+ ATPase pump",
-        "Increased sympathetic tone leading to potassium retention",
-        "Reduced aldosterone secretion leading to impaired potassium excretion",
-        "Enhanced sodium reabsorption in the proximal tubule",
-        "Direct blockade of potassium channels in the renal tubules"
-    ],
-    "correctAnswer": 2,
-    "explanation": "ACE inhibitors reduce aldosterone secretion, leading to reduced potassium excretion and subsequent hyperkalemia. This effect is more pronounced in CKD patients, as the kidneys have limited ability to excrete potassium."
-},
-{
-    "question": "A 55-year-old man presents with severe hypertension (BP 230/130 mmHg), acute kidney injury, and retinal hemorrhages. Which of the following intravenous medications is the most appropriate initial treatment?",
-    "choices": [
-        "Lisinopril",
-        "Esmolol",
-        "Nicardipine",
-        "Furosemide",
-        "Spironolactone"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Nicardipine (IV dihydropyridine CCB) is preferred for hypertensive emergency because it rapidly lowers BP while preserving cerebral and renal perfusion. ACE inhibitors (lisinopril) and diuretics (furosemide, spironolactone) are not used acutely in this setting."
-},
-{
-    "question": "A 58-year-old man with hyperlipidemia is started on atorvastatin. Which of the following best explains how statins lower LDL cholesterol levels?",
-    "choices": [
-        "Inhibition of bile acid reabsorption in the intestines",
-        "Inhibition of HMG-CoA reductase, increasing LDL receptor expression",
-        "Activation of PPAR-alpha, leading to increased lipoprotein lipase activity",
-        "Binding to LDL particles, enhancing hepatic uptake",
-        "Blocking the Niemann-Pick C1-like 1 (NPC1L1) transporter in enterocytes"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Statins inhibit HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis. This decreases hepatic cholesterol levels, leading to upregulation of LDL receptors on hepatocytes, which enhances LDL clearance from the circulation."
-},
-{
-    "question": "In addition to lowering cholesterol, statins have beneficial cardiovascular effects by increasing endothelial nitric oxide synthase (eNOS). Which of the following best describes the impact of this mechanism?",
-    "choices": [
-        "Inhibition of vascular smooth muscle proliferation",
-        "Increased macrophage recruitment to atherosclerotic plaques",
-        "Increased platelet aggregation and clot formation",
-        "Increased LDL oxidation within atherosclerotic plaques",
-        "Inhibition of bradykinin breakdown"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Statins increase eNOS activity, which promotes vasodilation and inhibits vascular smooth muscle proliferation, leading to improved endothelial function and stabilization of atherosclerotic plaques."
-},
-{
-    "question": "A 65-year-old man with hyperlipidemia is prescribed cholestyramine, a bile acid sequestrant. Which of the following is a potential adverse effect of this medication?",
-    "choices": [
-        "Increased triglyceride levels",
-        "Hyperkalemia",
-        "Myopathy",
-        "Hepatic dysfunction",
-        "Inhibition of LDL receptor expression"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bile acid sequestrants (e.g., cholestyramine, colestipol) prevent bile acid reabsorption, increasing hepatic cholesterol conversion to bile acids. However, they can also increase triglyceride levels by stimulating hepatic VLDL production."
-},
-{
-    "question": "A 52-year-old man with hypertriglyceridemia is prescribed fenofibrate. Which of the following best describes its primary mechanism of action?",
-    "choices": [
-        "Inhibition of HMG-CoA reductase",
-        "Blocking the NPC1L1 transporter in the intestines",
-        "Activation of peroxisome proliferator-activated receptor-alpha (PPAR-α)",
-        "Inhibition of ATP citrate lyase",
-        "Blocking PCSK9-mediated LDL receptor degradation"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Fibrates (e.g., fenofibrate, gemfibrozil) activate PPAR-α, which increases lipoprotein lipase (LPL) activity, leading to enhanced triglyceride clearance from the bloodstream."
-},
-{
-    "question": "A 48-year-old man is started on icosapent ethyl (Vascepa), an omega-3 fatty acid derivative. Which of the following best describes how omega-3 fatty acids reduce triglyceride levels?",
-    "choices": [
-        "Inhibition of HMG-CoA reductase",
-        "Activation of peroxisome proliferator-activated receptor-gamma (PPAR-γ)",
-        "Decreased hepatic VLDL synthesis",
-        "Increased cholesterol absorption in the intestines",
-        "Upregulation of LDL receptor expression"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Omega-3 fatty acids (e.g., icosapent ethyl, EPA, DHA) reduce hepatic triglyceride synthesis by decreasing VLDL production, leading to lower circulating triglycerides."
-},
-{
-    "question": "A 45-year-old woman with familial hypercholesterolemia is started on evolocumab, a PCSK9 inhibitor. Which of the following best explains how PCSK9 inhibitors lower LDL cholesterol?",
-    "choices": [
-        "Inhibition of HMG-CoA reductase",
-        "Inhibition of LDL receptor degradation",
-        "Increased conversion of cholesterol to bile acids",
-        "Decreased hepatic VLDL synthesis",
-        "Blockade of cholesterol absorption in the intestines"
-    ],
-    "correctAnswer": 1,
-    "explanation": "PCSK9 inhibitors (evolocumab, alirocumab) prevent PCSK9-mediated degradation of LDL receptors, leading to increased LDL clearance from circulation."
-},
-{
-    "question": "A 60-year-old woman with hyperlipidemia is prescribed niacin to raise her HDL levels. Which of the following mechanisms best explains how niacin reduces triglycerides?",
-    "choices": [
-        "Inhibition of HMG-CoA reductase",
-        "Inhibition of lipolysis in adipose tissue",
-        "Upregulation of LDL receptor expression",
-        "Activation of PPAR-α",
-        "Blocking bile acid reabsorption"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Niacin inhibits hormone-sensitive lipase (HSL) in adipocytes, reducing free fatty acid (FFA) release and decreasing hepatic triglyceride synthesis."
-},
-{
-    "question": "A 34-year-old man with homozygous familial hypercholesterolemia has an LDL level of 450 mg/dL despite being on high-intensity statin therapy and ezetimibe. Which of the following additional therapies is most appropriate?",
-    "choices": [
-        "Bile acid sequestrants",
-        "Fibrates",
-        "PCSK9 inhibitors",
-        "Omega-3 fatty acids",
-        "Mipomersen (antisense apoB therapy)"
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "All five"
     ],
     "correctAnswer": 4,
-    "explanation": "Homozygous familial hypercholesterolemia (HoFH) is characterized by extremely high LDL levels. Mipomersen, an antisense therapy targeting apoB, reduces LDL production and is used in patients who fail standard lipid-lowering therapies."
+    "explanation": "In cases of bacterial endocarditis, particularly those caused by staphylococci, blood cultures are highly positive due to the continuous bacteremia characteristic of this infection. Typically, if the correct blood culture technique is used, most if not all of the blood cultures drawn should yield the organism. In this scenario, given effective culture methods and assuming no prior antibiotic therapy that could suppress bacterial growth, most or all five cultures would typically be positive."
 },
 {
-    "question": "A 64-year-old man with a history of hypertension and hyperlipidemia presents with chest pain and shortness of breath. His ECG and cardiac biomarkers are normal. He states that his symptoms worsen during stressful situations. Which of the following mechanisms best explains how psychological stress influences cardiovascular function?",
+    "question": "A 71-year-old cattle rancher comes to a physician because of fever, myalgias, low back pain, and increasing dyspnea on exertion for 10 days. Six weeks ago he underwent aortic valve replacement for calcific aortic stenosis. On exam, he is pale and chronically ill-appearing. A systolic ejection murmur which radiates into the carotids is present and inspiratory rales are audible at both lung bases. Four of four blood cultures are positive and aortic valve vegetations are present on echocardiography consistent with endocarditis. While many organisms could be causative, the most likely is which of the following?",
     "choices": [
-        "Increased parasympathetic tone leading to coronary vasodilation",
-        "Activation of the hypothalamic-pituitary-adrenal (HPA) axis and increased sympathetic activity",
-        "Increased nitric oxide release leading to arterial vasodilation",
-        "Inhibition of platelet activation and fibrinolysis",
-        "Decreased norepinephrine levels leading to bradycardia"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Psychological stress activates the HPA axis, leading to increased sympathetic activity and cortisol release. This contributes to vasoconstriction, hypertension, increased platelet aggregation, and endothelial dysfunction, all of which increase cardiovascular risk."
-}, 
-{
-    "question": "A recent Cochrane review examined the effect of psychological interventions in patients with coronary heart disease (CHD). Which of the following outcomes was found to be most consistently improved with psychological interventions?",
-    "choices": [
-        "Total mortality",
-        "Risk of revascularization procedures",
-        "Cardiac mortality",
-        "Incidence of myocardial infarction",
-        "Psychological symptoms (e.g., anxiety, depression, stress)"
-    ],
-    "correctAnswer": 4,
-    "explanation": "According to a Cochrane review, psychological interventions in CHD patients did not significantly reduce total mortality or revascularization rates, but they improved psychological symptoms (e.g., anxiety, depression, stress) and modestly reduced cardiac mortality."
-},
-{
-    "question": "A 70-year-old woman with no significant past medical history is admitted for a non-ST elevation myocardial infarction (NSTEMI). She reports living alone and rarely interacting with others. Which of the following best explains how social isolation contributes to cardiovascular disease?",
-    "choices": [
-        "Increased activity of the renin-angiotensin-aldosterone system (RAAS)",
-        "Increased parasympathetic tone leading to hypotension",
-        "Suppression of inflammatory cytokines, reducing atherosclerosis risk",
-        "Decreased sympathetic tone leading to vasodilation",
-        "Downregulation of hypothalamic-pituitary-adrenal (HPA) axis activity"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Social isolation is associated with increased activation of the RAAS system and sympathetic nervous system, leading to higher blood pressure, vascular inflammation, and greater cardiovascular risk. Studies have shown increased mortality in socially isolated patients after cardiac events."
-},
-{
-    "question": "A 55-year-old man with a history of paroxysmal atrial fibrillation (AF) reports that his symptoms are most pronounced during periods of stress. Which of the following psychological factors is most strongly associated with increased AF symptom perception?",
-    "choices": [
-        "Physiological markers of atrial fibrillation (e.g., heart rate variability)",
-        "Left atrial diameter on echocardiography",
-        "Levels of circulating catecholamines",
-        "Psychological distress and anxiety",
-        "Coronary artery calcium score"
+        "Brucella melitensis",
+        "Coxiella burnetii",
+        "Enterococcus faecium",
+        "Staphylococcus epidermidis",
+        "Viridans streptococcus"
     ],
     "correctAnswer": 3,
-    "explanation": "Psychological distress, including anxiety and depression, has a greater influence on AF symptom perception than objective measures like heart rate variability or left atrial size. Patients with high levels of distress tend to report more severe AF symptoms and higher healthcare utilization."
+    "explanation": "Staphylococcus epidermidis is the most likely causative organism for endocarditis in this scenario, particularly given the patient's history of aortic valve replacement. This organism is a common cause of infection in prosthetic valves, especially within the first year after surgery. It tends to form biofilms on the surfaces of medical devices, including prosthetic heart valves, making it a likely suspect in this case of endocarditis with positive blood cultures and vegetations on echocardiography."
 },
 {
-    "question": "A 60-year-old man presents with chest pain and dyspnea one year after experiencing a myocardial infarction (MI). He reports frequent nightmares and hypervigilance related to his cardiac health, constantly checking his pulse and fearing another MI. Which of the following best describes the underlying mechanism of his condition?",
+    "question": "A 65-year-old man is diagnosed as having enterococcal endocarditis. Which of the following regimens if given in optimal doses would be most likely to cure his infection?",
     "choices": [
-        "Increased parasympathetic activity leading to bradycardia",
-        "Dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis",
-        "Decreased sympathetic tone leading to reduced cardiovascular risk",
-        "Upregulation of nitric oxide synthesis leading to coronary vasodilation",
-        "Suppression of the renin-angiotensin-aldosterone system (RAAS)"
+        "Ampicillin",
+        "Ampicillin + ceftriaxone",
+        "Ceftriaxone/gentamicin",
+        "Penicillin G",
+        "Piperacillin/tazobactam"
     ],
     "correctAnswer": 1,
-    "explanation": "This patient likely has post-traumatic stress disorder (PTSD) related to his myocardial infarction. PTSD is associated with dysregulation of the HPA axis, leading to increased cortisol, heightened sympathetic activity, endothelial dysfunction, and an increased risk of recurrent cardiac events."
+    "explanation": "For enterococcal endocarditis, the combination of ampicillin and ceftriaxone is highly effective and often recommended. This regimen leverages the synergistic effect between a beta-lactam antibiotic and a cephalosporin to improve efficacy against enterococcal species, which are typically challenging to treat due to their inherent resistance mechanisms."
 },
 {
-    "question": "A 65-year-old woman presents with a 2-week history of cough, fever, and chills. She is confused and disoriented. Her blood pressure is 70/50 mm Hg, pulse 125/min, and temperature 102.5°F. Exam shows right flank tenderness, and her urinalysis shows numerous white blood cells and bacteria. The blood white blood cell count is elevated. She is admitted to the intensive care unit. Her blood pressure does not change with 1 L of normal saline. Which of the following medications would be the most appropriate best next step in management?",
+    "question": "An acutely ill man comes to a physician because of fever and chills, a cough productive of purulent sputum, and severe prostration. On exam, he is febrile (40°C) and has a holosystolic murmur along the left sternal border which gets louder with inspiration. Chest x-ray shows bilateral lower lobe infiltrates, one of which is cavitating. Which description best fits the typical patient with this infection?",
     "choices": [
-        "Digoxin",
-        "Dobutamine",
-        "Milrinone",
-        "Nitroprusside",
-        "Norepinephrine"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is norepinephrine. Norepinephrine is a vasopressor that stimulates adrenergic α and β receptors to cause vasoconstriction; it is the first-line treatment for septic shock, a form of distributive shock where systemic vascular resistance (SVR) is decreased. Digoxin, dobutamine, and milrinone are inotropes that increase cardiac contractility, but this patient has septic shock with low SVR and normal cardiac function, making these agents inappropriate. Nitroprusside is a vasodilator used in cardiogenic shock and would worsen blood pressure in distributive shock."
-},
-{
-    "question": "A 45-year-old man with pheochromocytoma is scheduled for surgical resection of the tumor. To prevent intraoperative hypertensive crises, he is started on an irreversible alpha-adrenergic antagonist. Which of the following medications was most likely given?",
-    "choices": [
-        "Prazosin",
-        "Phentolamine",
-        "Phenoxybenzamine",
-        "Clonidine",
-        "Propranolol"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Phenoxybenzamine is a non-selective, irreversible alpha-adrenergic antagonist used preoperatively for pheochromocytoma. It prevents catecholamine-induced vasoconstriction. Phentolamine is reversible, and prazosin is selective for α1. Beta-blockers (propranolol) should not be given before alpha-blockade, as they can cause unopposed α1-mediated vasoconstriction."
-},
-{
-    "question": "A 58-year-old man with hypertension and benign prostatic hyperplasia (BPH) is started on prazosin. Which of the following adverse effects is most likely to occur after the first dose?",
-    "choices": [
-        "Reflex bradycardia",
-        "Severe hypotension and syncope",
-        "Rebound hypertension",
-        "QT prolongation",
-        "Bronchospasm"
+        "26 yo woman with a history of mitral valve prolapse",
+        "28 yo injecting drug user",
+        "50 yo woman with rheumatic heart disease",
+        "71 yo man with aortic stenosis who underwent recent TURP"
     ],
     "correctAnswer": 1,
-    "explanation": "Prazosin, a selective α1 antagonist, causes vasodilation and venous pooling, leading to a first-dose phenomenon, characterized by severe postural hypotension and syncope. This effect can be minimized by taking the first dose at bedtime."
+    "explanation": "The patient's symptoms and findings, including the presence of a holosystolic murmur that intensifies with inspiration and cavitating lung infiltrates, suggest a diagnosis of infective endocarditis, likely from Staphylococcus aureus. This scenario is most typical in injecting drug users, who are at high risk for this type of infection due to repeated use of non-sterile needles."
 },
-{
-    "question": "A 65-year-old man with hypertension and COPD is started on a beta-blocker. Which of the following agents would be the most appropriate choice to minimize the risk of bronchospasm?",
-    "choices": [
-        "Propranolol",
-        "Metoprolol",
-        "Labetalol",
-        "Timolol",
-        "Carvedilol"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Metoprolol, a cardioselective β1 blocker, is preferred in patients with COPD or asthma because it has minimal β2 blockade, reducing the risk of bronchospasm. Non-selective beta-blockers (e.g., propranolol, timolol, carvedilol, labetalol) can worsen bronchoconstriction."
-},
-{
-    "question": "A 68-year-old man presents to the emergency department with a hypertensive emergency (BP 220/120 mmHg) and aortic dissection. Which of the following intravenous beta-blockers would provide the most rapid control of his blood pressure and heart rate?",
-    "choices": [
-        "Metoprolol",
-        "Esmolol",
-        "Carvedilol",
-        "Propranolol",
-        "Labetalol"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Esmolol is an ultra-short-acting β1-selective antagonist with a rapid onset and short half-life, making it ideal for hypertensive emergencies and aortic dissection where precise BP control is needed."
-},
-{
-    "question": "A 55-year-old man with long-standing hypertension was taking clonidine for several years. He abruptly stopped his medication, leading to a severe hypertensive crisis. What is the underlying mechanism of this phenomenon?",
-    "choices": [
-        "Upregulation of alpha-2 adrenergic receptors",
-        "Downregulation of beta-1 adrenergic receptors",
-        "Rebound sympathetic outflow due to decreased CNS alpha-2 stimulation",
-        "Inhibition of angiotensin-converting enzyme (ACE)",
-        "Excessive norepinephrine release due to increased vesicular storage"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Clonidine, a central α2-adrenergic agonist, suppresses sympathetic outflow from the CNS. Abrupt withdrawal causes rebound sympathetic activation, leading to severe hypertension, tachycardia, and agitation."
-},
-{
-    "question": "A 55-year-old man with hypertension and heart failure is started on labetalol. Which of the following best describes how this drug lowers blood pressure?",
-    "choices": [
-        "Selective β1 blockade leading to decreased cardiac output",
-        "Selective α1 blockade causing vasodilation",
-        "Non-selective β blockade leading to bradycardia",
-        "Combined α1 and β blockade leading to decreased blood pressure and heart rate",
-        "Inhibition of norepinephrine reuptake at synaptic terminals"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Labetalol is a combined α1 and β-adrenergic blocker. It lowers blood pressure by blocking α1 receptors (causing vasodilation) and β1 receptors (reducing heart rate and contractility), making it useful for hypertension and hypertensive emergencies."
-},
-{
-    "question": "Which of the following events would most strongly trigger renin release in the kidney?",
-    "choices": [
-        "Becoming lightheaded after recurrent vomiting",
-        "Developing severe hypertension (high blood pressure)",
-        "Eating a salty meal",
-        "Losing potassium in a bout of diarrhea",
-        "Taking a drug with parasympathetic action"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is becoming lightheaded after recurrent vomiting. Renin release is stimulated by low blood pressure, high sympathetic activity, or low salt flow in the renal tubule. Vomiting leads to dehydration and volume depletion, activating these mechanisms. Hypertension (B) suppresses RAAS activation. Eating a salty meal (C) increases blood volume and suppresses RAAS. Potassium loss (D) affects aldosterone but does not directly regulate renin. Parasympathetic drugs (E) do not stimulate renin release, as renin-producing cells are primarily influenced by sympathetic input."
-},
-{
-    "question": "A previously healthy patient comes in with stenosis of both renal arteries (vessel diameter is smaller). As a result, blood flow to the renal arterioles is severely decreased. What effect would this have on blood pressure?",
-    "choices": [
-        "Decrease",
-        "Increase",
-        "Increase, then decrease to normal",
-        "No change"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is increase (B). Renal artery stenosis reduces renal perfusion, triggering renin release from the juxtaglomerular apparatus (JGA). Increased renin leads to elevated angiotensin II and aldosterone, causing vasoconstriction and sodium retention, which ultimately raises blood pressure. Decreased renal blood flow would not lower BP (A), nor would it self-correct (C) or have no effect (D)."
-},
-{
-    "question": "A previously healthy 71-year-old Black male is diagnosed with new-onset hypertension after two office visits with readings of 145/88 mm Hg. Which of the following is the best initial treatment for this patient?",
-    "choices": [
-        "Angiotensin-receptor blocker",
-        "Angiotensin-converting enzyme inhibitor",
-        "Calcium-channel blocker",
-        "Lifestyle modification",
-        "Thiazide diuretic"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is lifestyle modification (D). The initial treatment of mild-to-moderate hypertension is lifestyle modifications, including DASH diet, exercise, weight loss, and alcohol cessation. Angiotensin-receptor blockers (ARBs) or angiotensin-converting enzyme inhibitors (ACEIs) would be excellent choices in patients with diabetes, kidney disease, or heart failure, but this patient has none of these conditions. If lifestyle modifications fail, the first-line pharmacologic treatments for hypertension in Black individuals are calcium-channel blockers (CCBs) or thiazide diuretics, as they are more effective than ACEIs/ARBs in this population due to lower renin activity." 
-},
-{
-    "question": "A 50-year-old obese female with tobacco use disorder and alcohol use disorder presents to the clinic for an annual checkup. Her blood pressure is 144/85 mm Hg. A week later, she comes to the clinic and her blood pressure is the same. Which of the following lifestyle interventions are least likely to have an effect on her blood pressure?",
-    "choices": [
-        "Alcohol cessation",
-        "DASH diet",
-        "Exercise",
-        "Tobacco cessation",
-        "Weight loss"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is tobacco cessation (D). Although quitting smoking has been shown to improve cardiovascular mortality, it does not significantly reduce blood pressure. Alcohol cessation (A) can reduce systolic blood pressure by 7.2 mm Hg in heavy drinkers. The DASH diet (B) lowers systolic BP by 5.5 mm Hg, and exercise (C) can reduce systolic BP by 3.8 mm Hg. Weight loss (E) is the most effective intervention, lowering systolic BP by up to 8.5 mm Hg. Therefore, tobacco cessation is the least effective intervention for blood pressure reduction."
-}
+    {
+        "question": "A 40-year-old man with a history of bicuspid aortic valve presents with signs of infective endocarditis. Which hemodynamic factor most contributes to his increased susceptibility to endocarditis?",
+        "choices": [
+            "Increased shear stress at the valve",
+            "Reduced myocardial oxygen demand",
+            "Elevated left ventricular ejection fraction",
+            "Decreased systemic vascular resistance",
+            "Lowered cardiac output"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Increased shear stress at congenitally abnormal valves, such as a bicuspid aortic valve, contributes to minor injuries and inflammation. This facilitates the attachment and colonization of bacteria, leading to endocarditis."
+    },
+    {
+        "question": "Which underlying condition is most commonly associated with the development of non-bacterial thrombotic endocarditis (NBTE)?",
+        "choices": [
+            "Acute bacterial pneumonia",
+            "Advanced malignancy",
+            "Chronic obstructive pulmonary disease",
+            "Rheumatic heart disease",
+            "Hypertensive heart disease"
+        ],
+        "correctAnswer": 1,
+        "explanation": "NBTE often occurs in the setting of hypercoagulable states such as advanced malignancy, where the systemic inflammation and altered coagulation pathways lead to the deposition of sterile fibrin and platelet aggregates on cardiac valves."
+    },
+    {
+        "question": "Which patient is at the highest risk for developing infective endocarditis?",
+        "choices": [
+            "A 55-year-old female with hypertension",
+            "A 30-year-old male with a ventricular septal defect",
+            "A 45-year-old male with a history of gout",
+            "A 70-year-old female with type 2 diabetes",
+            "A 50-year-old male with no prior medical history"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Congenital heart defects, such as a ventricular septal defect, significantly increase the risk of endocarditis by creating regions of turbulent blood flow that facilitate bacterial attachment and proliferation."
+    },
+    {
+        "question": "What is the most definitive method for diagnosing infective endocarditis in a patient with suspected prosthetic valve involvement?",
+        "choices": [
+            "Serum C-reactive protein measurement",
+            "Transthoracic echocardiography",
+            "Transesophageal echocardiography",
+            "Complete blood count with differential",
+            "Chest X-ray"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Transesophageal echocardiography (TEE) offers superior sensitivity and specificity for detecting infective endocarditis, especially in patients with prosthetic valves where the diagnosis might be complicated by the presence of the prosthetic material."
+    },
+    {
+        "question": "A patient with confirmed infective endocarditis caused by Staphylococcus aureus is allergic to penicillin. Which treatment regimen is most appropriate?",
+        "choices": [
+            "Vancomycin alone",
+            "Nafcillin and gentamicin",
+            "Vancomycin and rifampin",
+            "Ceftriaxone and ampicillin",
+            "Amoxicillin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "In patients allergic to penicillin and infected with methicillin-resistant Staphylococcus aureus (MRSA), a combination of vancomycin and rifampin is often used to treat infective endocarditis. This regimen covers broad-spectrum bacterial eradication, including MRSA, and the addition of rifampin helps to eradicate bacterial biofilms associated with endocarditis."
+    }
 ]
-
-
