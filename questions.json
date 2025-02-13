@@ -691,7 +691,7 @@
         "Vancomycin/gentamicin"
     ],
     "correctAnswer": 4,
-    "explanation": This is a tricky question because this is the only listed regimen which can actually kill the enterococcus. The others would inhibit but not kill the organism with the exception of ceftriaxone—cephalosporins have no activity against enterococci. The cell wall agent allows the gentamicin to get into the cell in sufficient quantities to inhibit ribosomal protein synthesis."
+    "explanation": "This is a tricky question because this is the only listed regimen which can actually kill the enterococcus. The others would inhibit but not kill the organism with the exception of ceftriaxone—cephalosporins have no activity against enterococci. The cell wall agent allows the gentamicin to get into the cell in sufficient quantities to inhibit ribosomal protein synthesis."
 },
 {
     "question": "An acutely ill man comes to a physician because of fever and chills, a cough productive of purulent sputum, and severe prostration. On exam, he is febrile (40oC) and has a holosystolic murmur along the left sternal border which gets louder with inspiration. Chest x-ray shows bilateral lower lobe infiltrates, one of which is cavitating. Which description best fits the typical patient with this infection?",
