@@ -184,7 +184,7 @@
             "BNP > 500 pg/mL",
             "BNP > 1000 pg/mL"
         ],
-        "correctAnswer": 2,
+        "correctAnswer": 1,
         "explanation": "A BNP level greater than 100 pg/mL is highly indicative of heart failure, given the peptide's 92% specificity and 98% negative predictive vaule for diagnosing the condition, particularly in ruling OUT heart failure. If BNP is high it means HF is a possibility, it does not mean it is strictly HF."
     },
     {
