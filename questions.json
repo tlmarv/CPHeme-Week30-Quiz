@@ -643,7 +643,7 @@
         "Tetralogy of Fallot"
     ],
     "correctAnswer": 3,
-    "explanation": "The presence of poor dental health and heart murmurs indicative of mitral and aortic regurgitation, alongside a positive culture for Haemophilus aphrophilus, suggest an infective endocarditis potentially stemming from a predisposing factor such as rheumatic heart disease. Rheumatic heart disease often leads to valvular deformities which can predispose to bacterial colonization and subsequent infection."
+    "explanation": "The presence of poor dental health and heart murmurs indicative of mitral and aortic regurgitation, alongside a positive culture for Haemophilus aphrophilus, suggest an infective endocarditis potentially stemming from a predisposing factor such as rheumatic heart disease. Rheumatic heart disease often leads to valvular deformities which can predispose to bacterial colonization and subsequent infection. Acute rheumatic fever is still common in the developing world and used to be the most common predisposing condition in the U.S."
 },
 {
     "question": "A 43-year-old man is found to have a mid-systolic click on examination of his heart for an insurance physical. An echocardiogram confirms the physician’s suspicion of mitral valve prolapse, but reveals no mitral regurgitation. Compared to the general population, which of the following is the best estimate of his risk for developing endocarditis in the future?",
@@ -654,11 +654,11 @@
         "100-fold",
         "No greater risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Patients with mitral valve prolapse without regurgitation have a slightly increased risk of developing endocarditis compared to the general population. However, the risk is not as markedly elevated as in conditions with severe valve damage or regurgitation, hence a 5-fold increase is a reasonable estimate for the increased risk."
+    "correctAnswer": 4,
+    "explanation": "The risk is not as markedly elevated as in conditions with severe valve damage or regurgitation, hence a Mitral valve prolapse without regurgitation is a very common condition even in otherwise normal individuals."
 },
 {
-    "question": "A 67-year-old renal transplant patient is brought to the hospital by his wife for fever and chills for five days. Exam shows a febrile man in mild distress. The area of the dialysis access site is red and tender and a diastolic decrescendo murmur is heard at the aortic area. Concerned about a complicating staphylococcal endocarditis, the physician draws five blood cultures. If the patient has staphylococcal endocarditis how many of the five would be expected to yield the organism?",
+    "question": "A 67-year-old renal transplant patient is brought to the hospital by his wife for fever and chills for five days. Exam shows a febrile man in mild distress. The area of the dialysis access site is red and tender and a systolic ejection murmur at the aortic area. Concerned about a complicating staphylococcal endocarditis, the physician draws five blood cultures. If the patient has infective endocarditis how many of the five would be expected to yield the organism?",
     "choices": [
         "One",
         "Two",
@@ -666,8 +666,8 @@
         "Four",
         "All five"
     ],
-    "correctAnswer": 4,
-    "explanation": "In cases of bacterial endocarditis, particularly those caused by staphylococci, blood cultures are highly positive due to the continuous bacteremia characteristic of this infection. Typically, if the correct blood culture technique is used, most if not all of the blood cultures drawn should yield the organism. In this scenario, given effective culture methods and assuming no prior antibiotic therapy that could suppress bacterial growth, most or all five cultures would typically be positive."
+    "correctAnswer": 3,
+    "explanation": "Endocarditis is generally associated with continuous bacteremia; so in the absence of antibiotics virtually all blood cultures should be positive—especially with an easy-to-grow organism like S. aureus, the most likely cause of dialysis access infection."
 },
 {
     "question": "A 71-year-old cattle rancher comes to a physician because of fever, myalgias, low back pain, and increasing dyspnea on exertion for 10 days. Six weeks ago he underwent aortic valve replacement for calcific aortic stenosis. On exam, he is pale and chronically ill-appearing. A systolic ejection murmur which radiates into the carotids is present and inspiratory rales are audible at both lung bases. Four of four blood cultures are positive and aortic valve vegetations are present on echocardiography consistent with endocarditis. While many organisms could be causative, the most likely is which of the following?",
@@ -682,19 +682,19 @@
     "explanation": "Staphylococcus epidermidis is the most likely causative organism for endocarditis in this scenario, particularly given the patient's history of aortic valve replacement. This organism is a common cause of infection in prosthetic valves, especially within the first year after surgery. It tends to form biofilms on the surfaces of medical devices, including prosthetic heart valves, making it a likely suspect in this case of endocarditis with positive blood cultures and vegetations on echocardiography."
 },
 {
-    "question": "A 65-year-old man is diagnosed as having enterococcal endocarditis. Which of the following regimens if given in optimal doses would be most likely to cure his infection?",
+    "question": "An 65-year-old man is diagnosed as having enterococcal endocarditis. Which of the following regimens if given in optimal doses would be most likely to cure his infection?",
     "choices": [
         "Ampicillin",
-        "Ampicillin + ceftriaxone",
+        "Piperacillin/tazobactam",
         "Ceftriaxone/gentamicin",
         "Penicillin G",
-        "Piperacillin/tazobactam"
+        "Vancomycin/gentamicin"
     ],
-    "correctAnswer": 1,
-    "explanation": "For enterococcal endocarditis, the combination of ampicillin and ceftriaxone is highly effective and often recommended. This regimen leverages the synergistic effect between a beta-lactam antibiotic and a cephalosporin to improve efficacy against enterococcal species, which are typically challenging to treat due to their inherent resistance mechanisms."
+    "correctAnswer": 4,
+    "explanation": This is a tricky question because this is the only listed regimen which can actually kill the enterococcus. The others would inhibit but not kill the organism with the exception of ceftriaxone—cephalosporins have no activity against enterococci. The cell wall agent allows the gentamicin to get into the cell in sufficient quantities to inhibit ribosomal protein synthesis."
 },
 {
-    "question": "An acutely ill man comes to a physician because of fever and chills, a cough productive of purulent sputum, and severe prostration. On exam, he is febrile (40°C) and has a holosystolic murmur along the left sternal border which gets louder with inspiration. Chest x-ray shows bilateral lower lobe infiltrates, one of which is cavitating. Which description best fits the typical patient with this infection?",
+    "question": "An acutely ill man comes to a physician because of fever and chills, a cough productive of purulent sputum, and severe prostration. On exam, he is febrile (40oC) and has a holosystolic murmur along the left sternal border which gets louder with inspiration. Chest x-ray shows bilateral lower lobe infiltrates, one of which is cavitating. Which description best fits the typical patient with this infection?",
     "choices": [
         "26 yo woman with a history of mitral valve prolapse",
         "28 yo injecting drug user",
@@ -702,7 +702,7 @@
         "71 yo man with aortic stenosis who underwent recent TURP"
     ],
     "correctAnswer": 1,
-    "explanation": "The patient's symptoms and findings, including the presence of a holosystolic murmur that intensifies with inspiration and cavitating lung infiltrates, suggest a diagnosis of infective endocarditis, likely from Staphylococcus aureus. This scenario is most typical in injecting drug users, who are at high risk for this type of infection due to repeated use of non-sterile needles."
+    "explanation": "Classic story for tricuspid regurgitation and endocarditis. This is usually due to S. aureus and the septic emboli go from the tricuspid valve, seed the lower lobes of the lungs and can cause cavitation. The patient's symptoms and findings, including the presence of a holosystolic murmur that intensifies with inspiration and cavitating lung infiltrates, suggest a diagnosis of infective endocarditis, likely from Staphylococcus aureus. This scenario is most typical in injecting drug users, who are at high risk for this type of infection due to repeated use of non-sterile needles."
 },
     {
         "question": "A 40-year-old man with a history of bicuspid aortic valve presents with signs of infective endocarditis. Which hemodynamic factor most contributes to his increased susceptibility to endocarditis?",
@@ -717,16 +717,16 @@
         "explanation": "Increased shear stress at congenitally abnormal valves, such as a bicuspid aortic valve, contributes to minor injuries and inflammation. This facilitates the attachment and colonization of bacteria, leading to endocarditis."
     },
     {
-        "question": "Which underlying condition is most commonly associated with the development of non-bacterial thrombotic endocarditis (NBTE)?",
+        "question": "A 24-year-old woman who underwent mitral valve replacement 2 years ago for severe mitral regurgitation comes to her physician with complaints of fever, malaise, fatigue, and night sweats for the past two weeks. On exam, she is febrile (39 C), pale, and ill-appearing and the physician hears a new murmur of mitral regurgitation raising concern for prosthetic valve infective endocarditis. Which of the following organisms would be an unlikely cause of this infection?",
         "choices": [
-            "Acute bacterial pneumonia",
-            "Advanced malignancy",
-            "Chronic obstructive pulmonary disease",
-            "Rheumatic heart disease",
-            "Hypertensive heart disease"
+            "Enterococcus faecalis",
+            "Streptococcus mutans",
+            "Neisseria gonorrhoeae",
+            "Staphylococcus aureus",
+            "Staphylococcus epidermidis"
         ],
-        "correctAnswer": 1,
-        "explanation": "NBTE often occurs in the setting of hypercoagulable states such as advanced malignancy, where the systemic inflammation and altered coagulation pathways lead to the deposition of sterile fibrin and platelet aggregates on cardiac valves."
+        "correctAnswer": 2,
+        "explanation": "Any of the others would be much more likely than this organism in the antibiotic era. Among the others listed, at two years out from cardiac surgery, oral strep like S. mutans would be slightly more common than the staphylococci."
     },
     {
         "question": "Which patient is at the highest risk for developing infective endocarditis?",
@@ -753,15 +753,15 @@
         "explanation": "Transesophageal echocardiography (TEE) offers superior sensitivity and specificity for detecting infective endocarditis, especially in patients with prosthetic valves where the diagnosis might be complicated by the presence of the prosthetic material."
     },
     {
-        "question": "A patient with confirmed infective endocarditis caused by Staphylococcus aureus is allergic to penicillin. Which treatment regimen is most appropriate?",
+        "question": "Blood cultures from a man with infective endocarditis have yielded a Gram-positive coccus in chains which belongs to Lancefield Group D and hydrolyzes esculin in the presence of bile, but does not grow in 6.5% NaCl. This organism also has an association with which of the following?",
         "choices": [
-            "Vancomycin alone",
-            "Nafcillin and gentamicin",
-            "Vancomycin and rifampin",
-            "Ceftriaxone and ampicillin",
-            "Amoxicillin"
+            "Colon cancer",
+            "Dental abscess",
+            "Diabetes mellitus",
+            "Renal transplantation",
+            "Urinary tract infection"
         ],
-        "correctAnswer": 2,
-        "explanation": "In patients allergic to penicillin and infected with methicillin-resistant Staphylococcus aureus (MRSA), a combination of vancomycin and rifampin is often used to treat infective endocarditis. This regimen covers broad-spectrum bacterial eradication, including MRSA, and the addition of rifampin helps to eradicate bacterial biofilms associated with endocarditis."
+        "correctAnswer": 0,
+        "explanation": "Patients with bacteremia due to this organism may well have a mucosal lesion in the colon and should be screened for polyps and cancer."
     }
 ]
